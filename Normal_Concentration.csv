@@ -10728,3 +10728,1262 @@
 10726,,,,Taking drug identified by DrugBank entry DB08816,None,hmdb_metabolites-9843
 10727,,,,Taking drug identified by DrugBank entry DB08819,None,hmdb_metabolites-9844
 10728,,,,Taking drug identified by DrugBank entry DB08820,None,hmdb_metabolites-9845
+10729,3-8,Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-10280
+10730,,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-10287
+10731,,,,Normal,None,hmdb_metabolites-10290
+10732,,,,Consuming polyphenols described by Phenol-Explorer entry 766,None,hmdb_metabolites-10299
+10733,,,,Normal,None,hmdb_metabolites-10304
+10734,,,,Normal,None,hmdb_metabolites-10305
+10735,,,,Normal,None,hmdb_metabolites-10307
+10736,,,,Consuming polyphenols described by Phenol-Explorer entry 983,None,hmdb_metabolites-10309
+10737,,,,Consuming polyphenols described by Phenol-Explorer entry 983,None,hmdb_metabolites-10309
+10738,,,,Consuming polyphenols described by Phenol-Explorer entry 983,None,hmdb_metabolites-10309
+10739,,,,Consuming polyphenols described by Phenol-Explorer entry 983,None,hmdb_metabolites-10309
+10740,,,,Normal,None,hmdb_metabolites-10312
+10741,,,,Normal,None,hmdb_metabolites-10320
+10742,0.50-1.40,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-10321
+10743,0.23 +/- 0.07,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-10321
+10744,0.30-1.10,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-10322
+10745,0.23 +/- 0.07,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-10322
+10746,,,,Normal,None,hmdb_metabolites-10324
+10747,,,,Consuming polyphenols described by Phenol-Explorer entry 330,None,hmdb_metabolites-10325
+10748,,,,Consuming polyphenols described by Phenol-Explorer entry 330,None,hmdb_metabolites-10325
+10749,,,,Consuming polyphenols described by Phenol-Explorer entry 330,None,hmdb_metabolites-10325
+10750,,,,Normal,None,hmdb_metabolites-10326
+10751,,,,Normal,None,hmdb_metabolites-10327
+10752,16.6 +/- 3.36,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-10329
+10753,,,,Consuming polyphenols described by Phenol-Explorer entry 1040,None,hmdb_metabolites-10331
+10754,,,,Consuming polyphenols described by Phenol-Explorer entry 1040,None,hmdb_metabolites-10331
+10755,2.80 (1.20-3.22),Adolescent (13-18 years old),Both,Normal,None,hmdb_metabolites-10333
+10756,0.060-0.180,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-10333
+10757,0.11 +/- 0.04,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-10333
+10758,0.70 (0.11-1.65),Adolescent (13-18 years old),Both,Normal,None,hmdb_metabolites-10334
+10759,0.20-1.40,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-10334
+10760,0.36 +/- 0.11,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-10334
+10761,,,,Normal,None,hmdb_metabolites-10335
+10762,,,,Consuming polyphenols described by Phenol-Explorer entry ,None,hmdb_metabolites-10357
+10763,,,,Consuming polyphenols described by Phenol-Explorer entry ,None,hmdb_metabolites-10358
+10764,0.136 +/- 0.022,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-10384
+10765,0.14 +/- 0.029,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-10384
+10766,0.136 +/- 0.027,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-10384
+10767,0.232 +/- 0.064,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-10384
+10768,0.117 +/- 0.021,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-10384
+10769,0.089 +/- 0.024,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-10384
+10770,0.115 +/- 0.025,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-10384
+10771,1.035 +/- 0.902,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-10384
+10772,1.221 +/- 0.119,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-10417
+10773,1.414 +/- 0.247,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-10417
+10774,19.555 +/- 18.35,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-10417
+10775,,,,Consuming polyphenols described by Phenol-Explorer entry 707,None,hmdb_metabolites-10417
+10776,1.975 +/- 0.639,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-10417
+10777,1.484 +/- 0.232,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-10417
+10778,2.2 +/- 0.626,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-10417
+10779,1.58 +/- 0.272,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-10417
+10780,1.408 +/- 0.166,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-10417
+10781,,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-10487
+10782,,,,Normal,None,hmdb_metabolites-10605
+10783,0.00008796 (0.0000779-0.0000989),Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-10694
+10784,0.0000771 (0.0000771-0.0000871),Children (1-13 years old),Not Specified,Normal,None,hmdb_metabolites-10694
+10785,0.102 +/- 0.022,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-10764
+10786,0.099 +/- 0.027,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-10764
+10787,0.096 +/- 0.025,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-10764
+10788,0.142 +/- 0.03,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-10764
+10789,0.113 +/- 0.024,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-10764
+10790,0.116 +/- 0.022,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-10764
+10791,0.104 +/- 0.017,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-10764
+10792,0.632 +/- 0.539,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-10764
+10793,,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-10829
+10794,,,,Normal,None,hmdb_metabolites-10952
+10795,,,,Normal,None,hmdb_metabolites-11288
+10796,0.036 +/- 0.021,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-11329
+10797,0.017 +/- 0.009,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-11329
+10798,0.05 +/- 0.021,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-11329
+10799,0.069 +/- 0.034,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-11329
+10800,0.006 +/- 0.002,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-11329
+10801,0.006 +/- 0.002,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-11329
+10802,0.008 +/- 0.001,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-11329
+10803,0.012 +/- 0.004,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-11329
+10804,,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-11733
+10805,,,,Consuming polyphenols described by Phenol-Explorer entry 527,None,hmdb_metabolites-11766
+10806,,,,Consuming polyphenols described by Phenol-Explorer entry 484,None,hmdb_metabolites-11767
+10807,,,,Consuming polyphenols described by Phenol-Explorer entry 520,None,hmdb_metabolites-11768
+10808,,,,Consuming polyphenols described by Phenol-Explorer entry 36,None,hmdb_metabolites-11838
+10809,,,,Consuming polyphenols described by Phenol-Explorer entry 36,None,hmdb_metabolites-11838
+10810,,,,Consuming polyphenols described by Phenol-Explorer entry 36,None,hmdb_metabolites-11838
+10811,,,,Consuming polyphenols described by Phenol-Explorer entry 36,None,hmdb_metabolites-11838
+10812,0.0201 +/- 0.0134,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-12015
+10813,0.0141,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-12015
+10814,0.0142,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-12015
+10815,0.0176 +/- 0.00880,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-12015
+10816,0.0123,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-12015
+10817,0.02,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-12015
+10818,0.022,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-12015
+10819,0.0193 +/- 0.0122,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-12015
+10820,0.21 +/- 0.13,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-12020
+10821,0.0175 +/- 0.00980,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-12091
+10822,0.0157,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-12091
+10823,0.0161,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-12091
+10824,0.0169 +/- 0.00870,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-12091
+10825,0.013,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-12091
+10826,0.027,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-12091
+10827,0.029,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-12091
+10828,0.0173 +/- 0.00950,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-12091
+10829,,,,Normal,None,hmdb_metabolites-12181
+10830,,,,Normal,None,hmdb_metabolites-12271
+10831,0.13 +/- 0.04,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-12313
+10832,0.0000650 (0.0000325-0.000065),Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-12373
+10833,,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-12447
+10834,0.45 +/- 0.10,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-12507
+10835,0.23 +/- 0.07,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-12525
+10836,,,,Normal,None,hmdb_metabolites-12678
+10837,0.000503 +/- 0.000052,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-12946
+10838,0.00025(0.00021-0.00032),Adult (>18 years old),Both,Normal,None,hmdb_metabolites-13484
+10839,0.692 +/- 0.319,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-13521
+10840,0.717 +/- 0.23,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-13521
+10841,1.212 +/- 0.327,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-13521
+10842,2.211 +/- 1.052,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-13521
+10843,0.355 +/- 0.115,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-13521
+10844,0.49 +/- 0.133,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-13521
+10845,0.426 +/- 0.111,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-13521
+10846,0.56 +/- 0.125,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-13521
+10847,1.444 +/- 1.369,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-13523
+10848,0.053 +/- 0.018,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-13523
+10849,3.049 +/- 1.606,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-13523
+10850,3.626 +/- 1.66,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-13523
+10851,0.053 +/- 0.01,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-13523
+10852,0.033 +/- 0.007,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-13523
+10853,0.12 +/- 0.01,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-13523
+10854,0.068 +/- 0.049,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-13523
+10855,,,,Normal,None,hmdb_metabolites-14055
+10856,,,,Normal,None,hmdb_metabolites-14056
+10857,0.000166,Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-14080
+10858,,,,Normal,None,hmdb_metabolites-14298
+10859,,,,Normal,None,hmdb_metabolites-14299
+10860,,,,Normal,None,hmdb_metabolites-14300
+10861,,,,Normal,None,hmdb_metabolites-14460
+10862,,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-14603
+10863,,,,Consuming polyphenols described by Phenol-Explorer entry 909,None,hmdb_metabolites-14696
+10864,0.16 +/- 0.05,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-14703
+10865,0.16,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-14720
+10866,0.18,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-14720
+10867,0.094,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-14720
+10868,0.181 +/- 0.00500,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10869,0.150 +/- 0.0800,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-14720
+10870,0.180 +/- 0.120,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-14720
+10871,0.136 +/- 0.150,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10872,0.160 +/- 0.110,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10873,0.270 +/- 0.170,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10874,0.107 +/- 0.130,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-14720
+10875,0.180 +/- 0.100,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-14720
+10876,0.200 +/- 0.120,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-14720
+10877,0.130 +/- 0.180,Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-14720
+10878,0.327 +/- 0.175,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-14720
+10879,0.620 +/- 0.330,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10880,0.700 +/- 0.310,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10881,0.09,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10882,0.09,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-14720
+10883,170 +/- 50,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10884,0.313 +/- 0.172,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-14720
+10885,0.147 +/- 0.102,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-14720
+10886,0.14,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-14720
+10887,0.16,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-14720
+10888,0.091,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-14720
+10889,0.196,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10890,0.245,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10891,0.289,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10892,0.209,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10893,0.23,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10894,0.283,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10895,0.14,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-14720
+10896,0.141,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-14720
+10897,0.422,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-14720
+10898,0.0400 +/- 0.0300,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-14720
+10899,0.130 +/- 0.190,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-14720
+10900,0.150 +/- 0.0850,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-14720
+10901,0.170 +/- 0.112,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-14720
+10902,0.250 +/- 0.350,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-14720
+10903,0.324 +/- 0.174,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-14720
+10904,0.169,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10905,0.177,Adolescent (13-18 years old),Female,Normal,None,hmdb_metabolites-14720
+10906,0.18,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10907,0.215,Children (1-13 years old),Female,Normal,None,hmdb_metabolites-14720
+10908,0.27,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10909,0.34,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10910,0.190 +/- 0.160,Adolescent (13-18 years old),Female,Normal,None,hmdb_metabolites-14720
+10911,0.194 +/- 0.121,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10912,0.225 +/- 0.167,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10913,0.275 +/- 0.295,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10914,0.295 +/- 0.279,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10915,0.374 +/- 0.190,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10916,0.465 +/- 0.351,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10917,221.751 +/- 113.408,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10918,0.152,Adolescent (13-18 years old),Male,Normal,None,hmdb_metabolites-14720
+10919,0.16,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-14720
+10920,0.17,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-14720
+10921,0.174,Children (1-13 years old),Male,Normal,None,hmdb_metabolites-14720
+10922,0.23,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-14720
+10923,0.116 +/- 0.0778,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-14720
+10924,,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-14720
+10925,0.125 +/- 0.0742,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-14720
+10926,0.148 +/- 0.101,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-14720
+10927,0.150 +/- 0.160,Adolescent (13-18 years old),Male,Normal,None,hmdb_metabolites-14720
+10928,0.167 +/- 0.132,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-14720
+10929,0.181 +/- 0.202,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-14720
+10930,0.203 +/- 0.165,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-14720
+10931,0.259 +/- 0.123,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-14720
+10932,130 +/- 90,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-14720
+10933,240 +/- 160,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-14720
+10934,240.381 +/- 118.291,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-14720
+10935,0.220 +/- 0.210,Children (1 - 13 years old),Not Specified,Normal,None,hmdb_metabolites-14720
+10936,,,,Normal,None,hmdb_metabolites-14746
+10937,0.00160 (0.00144-0.00177),Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-15039
+10938,0.00119 (0.00106-0.00132),Children (1-13 years old),Not Specified,Normal,None,hmdb_metabolites-15039
+10939,,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-15090
+10940,0.000490 (0.000422-0.00528),Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-15109
+10941,0.000374 (0.000298-0.00470),Children (1-13 years old),Not Specified,Normal,None,hmdb_metabolites-15109
+10942,36.61(48.27),Adult (>18 years old),Both,Normal,None,hmdb_metabolites-15127
+10943,,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-15143
+10944,,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-15143
+10945,,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-15143
+10946,0.465 +/- 0.064,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-15182
+10947,0.568 +/- 0.054,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-15182
+10948,0.419 +/- 0.06,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-15182
+10949,0.523 +/- 0.146,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-15182
+10950,0.572 +/- 0.034,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-15182
+10951,0.674 +/- 0.043,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-15182
+10952,0.564 +/- 0.061,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-15182
+10953,0.564 +/- 0.062,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-15182
+10954,0.000411-0.00657,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-15231
+10955,0.000221-0.00594,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-15231
+10956,,,,Normal,None,hmdb_metabolites-15366
+10957,,,,Normal,None,hmdb_metabolites-15387
+10958,,,,Normal,None,hmdb_metabolites-15536
+10959,,,,Normal,None,hmdb_metabolites-15551
+10960,,,,Normal,None,hmdb_metabolites-15632
+10961,,,,Normal,None,hmdb_metabolites-15674
+10962,,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-15701
+10963,11.722 +/- 5.378,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-15948
+10964,,,,Normal,None,hmdb_metabolites-17017
+10965,,,,Normal,None,hmdb_metabolites-17019
+10966,,,,Normal,None,hmdb_metabolites-17020
+10967,,,,Normal,None,hmdb_metabolites-17021
+10968,,,,Normal,None,hmdb_metabolites-17022
+10969,,,,Normal,None,hmdb_metabolites-17023
+10970,,,,Normal,None,hmdb_metabolites-17024
+10971,,,,Normal,None,hmdb_metabolites-17026
+10972,,,,Normal,None,hmdb_metabolites-17027
+10973,,,,Normal,None,hmdb_metabolites-17028
+10974,,,,Normal,None,hmdb_metabolites-17029
+10975,,,,Normal,None,hmdb_metabolites-17030
+10976,,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-17623
+10977,,,,Normal,None,hmdb_metabolites-17638
+10978,,,,Normal,None,hmdb_metabolites-17643
+10979,,,,Normal,None,hmdb_metabolites-17644
+10980,,,,Normal,None,hmdb_metabolites-17645
+10981,,,,Normal,None,hmdb_metabolites-17646
+10982,,,,Normal,None,hmdb_metabolites-17647
+10983,,,,Normal,None,hmdb_metabolites-17648
+10984,,,,Normal,None,hmdb_metabolites-17649
+10985,,,,Normal,None,hmdb_metabolites-17650
+10986,,,,Normal,None,hmdb_metabolites-17651
+10987,,,,Normal,None,hmdb_metabolites-17652
+10988,,,,Normal,None,hmdb_metabolites-17653
+10989,,,,Normal,None,hmdb_metabolites-17654
+10990,,,,Normal,None,hmdb_metabolites-17655
+10991,,,,Normal,None,hmdb_metabolites-17679
+10992,,,,Normal,None,hmdb_metabolites-17788
+10993,,,,Normal,None,hmdb_metabolites-17951
+10994,,,,Consuming polyphenols described by Phenol-Explorer entry 293,None,hmdb_metabolites-18042
+10995,,,,Consuming polyphenols described by Phenol-Explorer entry 293,None,hmdb_metabolites-18042
+10996,,,,Consuming polyphenols described by Phenol-Explorer entry 307,None,hmdb_metabolites-18043
+10997,,,,Consuming polyphenols described by Phenol-Explorer entry 307,None,hmdb_metabolites-18043
+10998,,,,Normal,None,hmdb_metabolites-18138
+10999,0.00027(0.00023-0.00033),Adult (>18 years old),Both,Normal,None,hmdb_metabolites-18224
+11000,,,,Normal,None,hmdb_metabolites-18421
+11001,,,,Normal,None,hmdb_metabolites-18426
+11002,,,,Normal,None,hmdb_metabolites-18427
+11003,,,,Consuming polyphenols described by Phenol-Explorer entry 128,None,hmdb_metabolites-18607
+11004,,,,Consuming polyphenols described by Phenol-Explorer entry 128,None,hmdb_metabolites-18607
+11005,,,,Consuming polyphenols described by Phenol-Explorer entry ,None,hmdb_metabolites-18638
+11006,,,,Consuming polyphenols described by Phenol-Explorer entry ,None,hmdb_metabolites-18638
+11007,,,,Consuming polyphenols described by Phenol-Explorer entry ,None,hmdb_metabolites-18638
+11008,,,,Consuming polyphenols described by Phenol-Explorer entry ,None,hmdb_metabolites-18638
+11009,,,,Consuming polyphenols described by Phenol-Explorer entry ,None,hmdb_metabolites-18638
+11010,,,,Consuming polyphenols described by Phenol-Explorer entry 8,None,hmdb_metabolites-18639
+11011,,,,Consuming polyphenols described by Phenol-Explorer entry 8,None,hmdb_metabolites-18639
+11012,,,,Consuming polyphenols described by Phenol-Explorer entry 8,None,hmdb_metabolites-18639
+11013,,,,Consuming polyphenols described by Phenol-Explorer entry 8,None,hmdb_metabolites-18639
+11014,,,,Consuming polyphenols described by Phenol-Explorer entry 8,None,hmdb_metabolites-18639
+11015,,,,Consuming polyphenols described by Phenol-Explorer entry 8,None,hmdb_metabolites-18639
+11016,,,,Consuming polyphenols described by Phenol-Explorer entry 27,None,hmdb_metabolites-18659
+11017,,,,Consuming polyphenols described by Phenol-Explorer entry 27,None,hmdb_metabolites-18659
+11018,,,,Consuming polyphenols described by Phenol-Explorer entry 27,None,hmdb_metabolites-18659
+11019,,,,Consuming polyphenols described by Phenol-Explorer entry 27,None,hmdb_metabolites-18659
+11020,,,,Consuming polyphenols described by Phenol-Explorer entry 27,None,hmdb_metabolites-18659
+11021,,,,Normal,None,hmdb_metabolites-18692
+11022,,,,Normal,None,hmdb_metabolites-18706
+11023,,,,Normal,None,hmdb_metabolites-18729
+11024,,,,Consuming polyphenols described by Phenol-Explorer entry 33,None,hmdb_metabolites-18751
+11025,,,,Consuming polyphenols described by Phenol-Explorer entry 33,None,hmdb_metabolites-18751
+11026,,,,Consuming polyphenols described by Phenol-Explorer entry 33,None,hmdb_metabolites-18751
+11027,,,,Normal,None,hmdb_metabolites-18910
+11028,,,,Normal,None,hmdb_metabolites-18911
+11029,,,,Normal,None,hmdb_metabolites-18912
+11030,,,,Normal,None,hmdb_metabolites-18913
+11031,,,,Normal,None,hmdb_metabolites-18914
+11032,,,,Normal,None,hmdb_metabolites-18941
+11033,,,,Normal,None,hmdb_metabolites-18942
+11034,,,,Normal,None,hmdb_metabolites-18943
+11035,,,,Normal,None,hmdb_metabolites-18944
+11036,,,,Normal,None,hmdb_metabolites-18945
+11037,,,,Normal,None,hmdb_metabolites-18948
+11038,,,,Normal,None,hmdb_metabolites-18949
+11039,0.0054,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-19130
+11040,0.009,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-19130
+11041,0.011,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-19130
+11042,0.00710 +/- 0.00390,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-19130
+11043,0.00720 +/- 0.00420,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-19130
+11044,0.00549,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-19130
+11045,0.00567,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-19130
+11046,0.00690 +/- 0.00320,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-19130
+11047,0.0117 +/- 0.00650,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-19169
+11048,0.00626,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-19169
+11049,0.00645,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-19169
+11050,0.0103 +/- 0.00460,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-19169
+11051,0.007,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-19169
+11052,0.011,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-19169
+11053,0.013,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-19169
+11054,0.0113 +/- 0.00600,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-19169
+11055,0.0109 +/- 0.00610,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-19175
+11056,0.00505,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-19175
+11057,0.0053,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-19175
+11058,0.00920 +/- 0.00430,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-19175
+11059,0.005,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-19175
+11060,0.006,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-19175
+11061,0.006,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-19175
+11062,0.0105 +/- 0.00570,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-19175
+11063,,,,Normal,None,hmdb_metabolites-19409
+11064,,,,Normal,None,hmdb_metabolites-19412
+11065,,,,Normal,None,hmdb_metabolites-19448
+11066,,,,Normal,None,hmdb_metabolites-19622
+11067,,,,Normal,None,hmdb_metabolites-19741
+11068,,,,Normal,None,hmdb_metabolites-19751
+11069,,,,Normal,None,hmdb_metabolites-19915
+11070,,,,Normal,None,hmdb_metabolites-19918
+11071,,,,Normal,None,hmdb_metabolites-19955
+11072,,,,Normal,None,hmdb_metabolites-20040
+11073,,,,Normal,None,hmdb_metabolites-20045
+11074,,,,Normal,None,hmdb_metabolites-20517
+11075,,,,Normal,None,hmdb_metabolites-20518
+11076,,,,Normal,None,hmdb_metabolites-20519
+11077,,,,Normal,None,hmdb_metabolites-20520
+11078,,,,Normal,None,hmdb_metabolites-20521
+11079,,,,Normal,None,hmdb_metabolites-20544
+11080,,,,Normal,None,hmdb_metabolites-20545
+11081,,,,Normal,None,hmdb_metabolites-20546
+11082,,,,Consuming polyphenols described by Phenol-Explorer entry 774,None,hmdb_metabolites-20896
+11083,,,,Normal,None,hmdb_metabolites-21402
+11084,,,,Normal,None,hmdb_metabolites-21434
+11085,0.10 +/- 0.03,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-21588
+11086,,,,Normal,None,hmdb_metabolites-21817
+11087,,,,Normal,None,hmdb_metabolites-21956
+11088,,,,Consuming polyphenols described by Phenol-Explorer entry 770,None,hmdb_metabolites-22077
+11089,,,,Normal,None,hmdb_metabolites-22189
+11090,,,,Normal,None,hmdb_metabolites-22205
+11091,,,,Normal,None,hmdb_metabolites-22206
+11092,,,,Normal,None,hmdb_metabolites-22207
+11093,,,,Normal,None,hmdb_metabolites-22226
+11094,0.018 +/- 0.005,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-22229
+11095,0.016 +/- 0.004,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-22229
+11096,0.072 +/- 0.062,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-22229
+11097,0.036 +/- 0.012,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-22229
+11098,0.025 +/- 0.009,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-22229
+11099,0.05 +/- 0.014,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-22229
+11100,0.066 +/- 0.023,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-22229
+11101,0.017 +/- 0.004,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-22229
+11102,,,,Consuming polyphenols described by Phenol-Explorer entry 931,None,hmdb_metabolites-22233
+11103,,,,Consuming polyphenols described by Phenol-Explorer entry 772,None,hmdb_metabolites-22234
+11104,,,,Consuming polyphenols described by Phenol-Explorer entry 767,None,hmdb_metabolites-22240
+11105,,,,Consuming polyphenols described by Phenol-Explorer entry 767,None,hmdb_metabolites-22240
+11106,,,,Normal,None,hmdb_metabolites-22241
+11107,,,,Normal,None,hmdb_metabolites-22242
+11108,0.266 +/- 0.106,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-22249
+11109,0.094 +/- 0.021,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-22249
+11110,0.168 +/- 0.038,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-22249
+11111,0.246 +/- 0.071,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-22249
+11112,0.094 +/- 0.011,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-22249
+11113,0.087 +/- 0.015,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-22249
+11114,0.192 +/- 0.108,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-22249
+11115,0.393 +/- 0.339,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-22249
+11116,,,,Normal,None,hmdb_metabolites-22259
+11117,,,,Normal,None,hmdb_metabolites-22271
+11118,,,,Consuming polyphenols described by Phenol-Explorer entry 941,None,hmdb_metabolites-22272
+11119,,,,Consuming polyphenols described by Phenol-Explorer entry 941,None,hmdb_metabolites-22272
+11120,,,,Consuming polyphenols described by Phenol-Explorer entry 941,None,hmdb_metabolites-22272
+11121,,,,Normal,None,hmdb_metabolites-22273
+11122,,,,Consuming polyphenols described by Phenol-Explorer entry 940,None,hmdb_metabolites-22274
+11123,,,,Normal,None,hmdb_metabolites-22275
+11124,,,,Normal,None,hmdb_metabolites-22277
+11125,,,,Normal,None,hmdb_metabolites-22279
+11126,,,,Normal,None,hmdb_metabolites-22283
+11127,,,,Normal,None,hmdb_metabolites-22284
+11128,,,,Normal,None,hmdb_metabolites-22285
+11129,,,,Normal,None,hmdb_metabolites-22286
+11130,,,,Consuming polyphenols described by Phenol-Explorer entry 965,None,hmdb_metabolites-22287
+11131,,,,Consuming polyphenols described by Phenol-Explorer entry 965,None,hmdb_metabolites-22287
+11132,,,,Consuming polyphenols described by Phenol-Explorer entry 965,None,hmdb_metabolites-22287
+11133,,,,Normal,None,hmdb_metabolites-22288
+11134,,,,Consuming polyphenols described by Phenol-Explorer entry 967,None,hmdb_metabolites-22289
+11135,,,,Consuming polyphenols described by Phenol-Explorer entry 962,None,hmdb_metabolites-22290
+11136,,,,Consuming polyphenols described by Phenol-Explorer entry 962,None,hmdb_metabolites-22290
+11137,,,,Consuming polyphenols described by Phenol-Explorer entry 962,None,hmdb_metabolites-22290
+11138,,,,Consuming polyphenols described by Phenol-Explorer entry 768,None,hmdb_metabolites-22294
+11139,,,,Consuming polyphenols described by Phenol-Explorer entry 768,None,hmdb_metabolites-22294
+11140,,,,Consuming polyphenols described by Phenol-Explorer entry 768,None,hmdb_metabolites-22294
+11141,,,,Consuming polyphenols described by Phenol-Explorer entry 768,None,hmdb_metabolites-22294
+11142,,,,Normal,None,hmdb_metabolites-22295
+11143,,,,Normal,None,hmdb_metabolites-22296
+11144,,,,Normal,None,hmdb_metabolites-22297
+11145,,,,Normal,None,hmdb_metabolites-22298
+11146,,,,Normal,None,hmdb_metabolites-22299
+11147,,,,Normal,None,hmdb_metabolites-22300
+11148,,,,Normal,None,hmdb_metabolites-22301
+11149,,,,Normal,None,hmdb_metabolites-22302
+11150,,,,Normal,None,hmdb_metabolites-22303
+11151,,,,Normal,None,hmdb_metabolites-22304
+11152,,,,Consuming polyphenols described by Phenol-Explorer entry 874,None,hmdb_metabolites-22305
+11153,,,,Normal,None,hmdb_metabolites-22306
+11154,,,,Normal,None,hmdb_metabolites-22307
+11155,,,,Normal,None,hmdb_metabolites-22308
+11156,,,,Normal,None,hmdb_metabolites-22309
+11157,,,,Normal,None,hmdb_metabolites-22310
+11158,,,,Normal,None,hmdb_metabolites-22311
+11159,,,,Normal,None,hmdb_metabolites-22312
+11160,,,,Consuming polyphenols described by Phenol-Explorer entry 936,None,hmdb_metabolites-22313
+11161,,,,Consuming polyphenols described by Phenol-Explorer entry 937,None,hmdb_metabolites-22314
+11162,,,,Normal,None,hmdb_metabolites-22315
+11163,,,,Consuming polyphenols described by Phenol-Explorer entry 822,None,hmdb_metabolites-22323
+11164,,,,Consuming polyphenols described by Phenol-Explorer entry 822,None,hmdb_metabolites-22323
+11165,,,,Normal,None,hmdb_metabolites-22325
+11166,,,,Normal,None,hmdb_metabolites-22326
+11167,,,,Normal,None,hmdb_metabolites-22327
+11168,,,,Consuming polyphenols described by Phenol-Explorer entry 762,None,hmdb_metabolites-22334
+11169,,,,Consuming polyphenols described by Phenol-Explorer entry 762,None,hmdb_metabolites-22334
+11170,,,,Consuming polyphenols described by Phenol-Explorer entry 819,None,hmdb_metabolites-22335
+11171,,,,Consuming polyphenols described by Phenol-Explorer entry 819,None,hmdb_metabolites-22335
+11172,,,,Consuming polyphenols described by Phenol-Explorer entry 819,None,hmdb_metabolites-22335
+11173,,,,Consuming polyphenols described by Phenol-Explorer entry 820,None,hmdb_metabolites-22336
+11174,,,,Consuming polyphenols described by Phenol-Explorer entry 820,None,hmdb_metabolites-22336
+11175,,,,Consuming polyphenols described by Phenol-Explorer entry 1003,None,hmdb_metabolites-22346
+11176,,,,Consuming polyphenols described by Phenol-Explorer entry 1002,None,hmdb_metabolites-22347
+11177,,,,Normal,None,hmdb_metabolites-22348
+11178,,,,Normal,None,hmdb_metabolites-22349
+11179,,,,Normal,None,hmdb_metabolites-22352
+11180,,,,Normal,None,hmdb_metabolites-22353
+11181,,,,Normal,None,hmdb_metabolites-22367
+11182,,,,Normal,None,hmdb_metabolites-22373
+11183,,,,Normal,None,hmdb_metabolites-22382
+11184,,,,Normal,None,hmdb_metabolites-22383
+11185,30.32 +/- 8.92,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-22383
+11186,22-55,Infant (0-1 year old),Not Specified,Normal,None,hmdb_metabolites-22386
+11187,<40,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-22386
+11188,,,,Normal,None,hmdb_metabolites-22393
+11189,,,,Normal,None,hmdb_metabolites-22406
+11190,,,,Normal,None,hmdb_metabolites-22411
+11191,,,,Normal,None,hmdb_metabolites-22420
+11192,,,,Normal,None,hmdb_metabolites-22440
+11193,,,,Normal,None,hmdb_metabolites-22444
+11194,,,,Normal,None,hmdb_metabolites-22461
+11195,,,,Normal,None,hmdb_metabolites-22462
+11196,,,,Normal,None,hmdb_metabolites-22482
+11197,,,,Normal,None,hmdb_metabolites-22487
+11198,0.000578,Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-22489
+11199,0.000302 (0.000241-0.000362),Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-22491
+11200,,,,Normal,None,hmdb_metabolites-22511
+11201,,,,Normal,None,hmdb_metabolites-22532
+11202,,,,Normal,None,hmdb_metabolites-22535
+11203,0.00011 (0.00011-0.00014),Adult (>18 years old),Both,Normal,None,hmdb_metabolites-39789
+11204,0.00007 (0.00007-0.00010),Adult (>18 years old),Both,Normal,None,hmdb_metabolites-39790
+11205,0.00004 (0.00002-0.00004),Adult (>18 years old),Both,Normal,None,hmdb_metabolites-39791
+11206,0.02260(0.02000-0.02520),Adult (>18 years old),Both,Normal,None,hmdb_metabolites-39792
+11207,0.0194 (0.0169-0.0224),Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-39792
+11208,0.0194 (0.0169-0.0224),Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-39792
+11209,0.00753 (0.00686-0.00828),Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-39793
+11210,0.00698(0.00657-0.00742),Adult (>18 years old),Both,Normal,None,hmdb_metabolites-39793
+11211,0.7 +/- 0.2,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-39847
+11212,1.5 (0.0-1.5),Adult (>18 years old),Both,Normal,None,hmdb_metabolites-39847
+11213,,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-39882
+11214,,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-39882
+11215,,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-39882
+11216,,,,Normal,None,hmdb_metabolites-39891
+11217,,,,Normal,None,hmdb_metabolites-39912
+11218,,,,Normal,None,hmdb_metabolites-39954
+11219,0.00129 (0.00120-0.00138),Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-39957
+11220,0.00111 (0.000989-0.00122),Children (1-13 years old),Not Specified,Normal,None,hmdb_metabolites-39957
+11221,0.26 +/- 0.16,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-39982
+11222,0.000358 (0.000320-0.000414),Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-39998
+11223,0.000301 (0.000264-0.000377),Children (1-13 years old),Not Specified,Normal,None,hmdb_metabolites-39998
+11224,0.000377 (0.000349-0.000405),Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-40050
+11225,0.000301 (0.000283-0.000320),Children (1-13 years old),Not Specified,Normal,None,hmdb_metabolites-40050
+11226,,,,Normal,None,hmdb_metabolites-40056
+11227,,,,Normal,None,hmdb_metabolites-40113
+11228,,,,Normal,None,hmdb_metabolites-40114
+11229,,,,Normal,None,hmdb_metabolites-40115
+11230,,,,Normal,None,hmdb_metabolites-40116
+11231,,,,Normal,None,hmdb_metabolites-40117
+11232,,,,Normal,None,hmdb_metabolites-40123
+11233,,,,Normal,None,hmdb_metabolites-40127
+11234,,,,Normal,None,hmdb_metabolites-40129
+11235,,,,Normal,None,hmdb_metabolites-40131
+11236,,,,Normal,None,hmdb_metabolites-40132
+11237,,,,Normal,None,hmdb_metabolites-40133
+11238,,,,Normal,None,hmdb_metabolites-40134
+11239,,,,Normal,None,hmdb_metabolites-40135
+11240,,,,Normal,None,hmdb_metabolites-40139
+11241,,,,Normal,None,hmdb_metabolites-40140
+11242,,,,Normal,None,hmdb_metabolites-40143
+11243,,,,Normal,None,hmdb_metabolites-40154
+11244,,,,Normal,None,hmdb_metabolites-40156
+11245,,,,Normal,None,hmdb_metabolites-40159
+11246,,,,Normal,None,hmdb_metabolites-40161
+11247,,,,Normal,None,hmdb_metabolites-40163
+11248,,,,Normal,None,hmdb_metabolites-40164
+11249,,,,Normal,None,hmdb_metabolites-40165
+11250,,,,Normal,None,hmdb_metabolites-40167
+11251,,,,Normal,None,hmdb_metabolites-40168
+11252,,,,Normal,None,hmdb_metabolites-40170
+11253,0.000075 +/- 0.000025,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40177
+11254,1.03 +/- 0.057,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40178
+11255,0.341 +/- 0.016,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40179
+11256,0.000175 +/- 0.000005,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40180
+11257,0.00013 +/- 0.000006,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40181
+11258,0.000053 +/- 0.000003,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40182
+11259,0.000172 +/- 0.00004,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40183
+11260,0.00164 +/- 0.000128,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40184
+11261,0.000026 +/- 0.000009,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40185
+11262,0.00194 +/- 0.000645,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40186
+11263,0.000202 +/- 0.000041,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40187
+11264,0.000228 +/- 0.000015,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40188
+11265,0.0053 +/- 0.00131,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40189
+11266,0.000131 +/- 0.000022,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40190
+11267,0.000294 +/- 0.000076,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40191
+11268,0.000123 +/- 0.000003,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40192
+11269,0.000066 +/- 0.000014,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40193
+11270,0.000039 +/- 0.000002,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40194
+11271,0.00031 +/- 0.000031,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40195
+11272,30 +/- 1,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40196
+11273,30 +/- 1,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40197
+11274,31 +/- 1,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40198
+11275,32 +/- 1,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40199
+11276,31 +/- 1,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40200
+11277,0.0033 +/- 0.0012,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40201
+11278,0.0045 +/- 0.0020,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40202
+11279,,,,Normal,None,hmdb_metabolites-40245
+11280,,,,Normal,None,hmdb_metabolites-40247
+11281,,,,Normal,None,hmdb_metabolites-40248
+11282,,,,Normal,None,hmdb_metabolites-40265
+11283,,,,Normal,None,hmdb_metabolites-40381
+11284,,,,Normal,None,hmdb_metabolites-40382
+11285,,,,Normal,None,hmdb_metabolites-40435
+11286,,,,Normal,None,hmdb_metabolites-40450
+11287,,,,Normal,None,hmdb_metabolites-40451
+11288,,,,Normal,None,hmdb_metabolites-40466
+11289,,,,Normal,None,hmdb_metabolites-40467
+11290,,,,Normal,None,hmdb_metabolites-40471
+11291,,,,Normal,None,hmdb_metabolites-40473
+11292,,,,Normal,None,hmdb_metabolites-40478
+11293,,,,Normal,None,hmdb_metabolites-40480
+11294,,,,Normal,None,hmdb_metabolites-40481
+11295,,,,Normal,None,hmdb_metabolites-40484
+11296,,,,Normal,None,hmdb_metabolites-40486
+11297,,,,Normal,None,hmdb_metabolites-40489
+11298,,,,Normal,None,hmdb_metabolites-40490
+11299,,,,Normal,None,hmdb_metabolites-40495
+11300,,,,Normal,None,hmdb_metabolites-40496
+11301,,,,Normal,None,hmdb_metabolites-40497
+11302,,,,Normal,None,hmdb_metabolites-40498
+11303,,,,Normal,None,hmdb_metabolites-40499
+11304,,,,Normal,None,hmdb_metabolites-40500
+11305,,,,Normal,None,hmdb_metabolites-40502
+11306,,,,Normal,None,hmdb_metabolites-40512
+11307,,,,Normal,None,hmdb_metabolites-40516
+11308,,,,Normal,None,hmdb_metabolites-40517
+11309,,,,Normal,None,hmdb_metabolites-40519
+11310,,,,Normal,None,hmdb_metabolites-40545
+11311,,,,Normal,None,hmdb_metabolites-40546
+11312,,,,Normal,None,hmdb_metabolites-40555
+11313,,,,Normal,None,hmdb_metabolites-40574
+11314,,,,Normal,None,hmdb_metabolites-40579
+11315,,,,Normal,None,hmdb_metabolites-40581
+11316,,,,Normal,None,hmdb_metabolites-40582
+11317,,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40584
+11318,,,,Normal,None,hmdb_metabolites-40592
+11319,,,,Normal,None,hmdb_metabolites-40593
+11320,,,,Normal,None,hmdb_metabolites-40595
+11321,0.066 +/- 0.026,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-40605
+11322,,,,Normal,None,hmdb_metabolites-40609
+11323,,,,Normal,None,hmdb_metabolites-40610
+11324,,,,Normal,None,hmdb_metabolites-40611
+11325,,,,Normal,None,hmdb_metabolites-40612
+11326,,,,Normal,None,hmdb_metabolites-40613
+11327,,,,Normal,None,hmdb_metabolites-40614
+11328,,,,Normal,None,hmdb_metabolites-40615
+11329,,,,Normal,None,hmdb_metabolites-40616
+11330,,,,Normal,None,hmdb_metabolites-40617
+11331,,,,Normal,None,hmdb_metabolites-40618
+11332,,,,Normal,None,hmdb_metabolites-40619
+11333,,,,Normal,None,hmdb_metabolites-40620
+11334,,,,Normal,None,hmdb_metabolites-40621
+11335,,,,Normal,None,hmdb_metabolites-40622
+11336,,,,Normal,None,hmdb_metabolites-40623
+11337,,,,Normal,None,hmdb_metabolites-40624
+11338,,,,Normal,None,hmdb_metabolites-40625
+11339,,,,Normal,None,hmdb_metabolites-40626
+11340,,,,Normal,None,hmdb_metabolites-40627
+11341,,,,Normal,None,hmdb_metabolites-40628
+11342,,,,Normal,None,hmdb_metabolites-40629
+11343,,,,Normal,None,hmdb_metabolites-40630
+11344,,,,Normal,None,hmdb_metabolites-40631
+11345,,,,Normal,None,hmdb_metabolites-40632
+11346,,,,Normal,None,hmdb_metabolites-40633
+11347,,,,Normal,None,hmdb_metabolites-40634
+11348,,,,Normal,None,hmdb_metabolites-40635
+11349,,,,Normal,None,hmdb_metabolites-40636
+11350,,,,Normal,None,hmdb_metabolites-40637
+11351,,,,Normal,None,hmdb_metabolites-40638
+11352,,,,Normal,None,hmdb_metabolites-40639
+11353,,,,Normal,None,hmdb_metabolites-40640
+11354,,,,Normal,None,hmdb_metabolites-40641
+11355,,,,Normal,None,hmdb_metabolites-40642
+11356,,,,Normal,None,hmdb_metabolites-40643
+11357,,,,Normal,None,hmdb_metabolites-40644
+11358,,,,Normal,None,hmdb_metabolites-40645
+11359,,,,Normal,None,hmdb_metabolites-40646
+11360,,,,Normal,None,hmdb_metabolites-40647
+11361,,,,Normal,None,hmdb_metabolites-40648
+11362,,,,Normal,None,hmdb_metabolites-40649
+11363,,,,Normal,None,hmdb_metabolites-40650
+11364,,,,Normal,None,hmdb_metabolites-40651
+11365,,,,Normal,None,hmdb_metabolites-40652
+11366,,,,Normal,None,hmdb_metabolites-40653
+11367,,,,Normal,None,hmdb_metabolites-40654
+11368,,,,Normal,None,hmdb_metabolites-40655
+11369,,,,Normal,None,hmdb_metabolites-40656
+11370,,,,Normal,None,hmdb_metabolites-40657
+11371,,,,Normal,None,hmdb_metabolites-40658
+11372,,,,Normal,None,hmdb_metabolites-40659
+11373,,,,Normal,None,hmdb_metabolites-40660
+11374,,,,Normal,None,hmdb_metabolites-40661
+11375,,,,Normal,None,hmdb_metabolites-40662
+11376,,,,Normal,None,hmdb_metabolites-40663
+11377,,,,Normal,None,hmdb_metabolites-40664
+11378,,,,Normal,None,hmdb_metabolites-40665
+11379,,,,Normal,None,hmdb_metabolites-40666
+11380,,,,Normal,None,hmdb_metabolites-40667
+11381,,,,Normal,None,hmdb_metabolites-40668
+11382,,,,Normal,None,hmdb_metabolites-40669
+11383,,,,Normal,None,hmdb_metabolites-40670
+11384,,,,Normal,None,hmdb_metabolites-40671
+11385,,,,Normal,None,hmdb_metabolites-40672
+11386,,,,Normal,None,hmdb_metabolites-40673
+11387,,,,Normal,None,hmdb_metabolites-40674
+11388,,,,Normal,None,hmdb_metabolites-40675
+11389,,,,Normal,None,hmdb_metabolites-40676
+11390,,,,Normal,None,hmdb_metabolites-40677
+11391,,,,Normal,None,hmdb_metabolites-40678
+11392,,,,Normal,None,hmdb_metabolites-40679
+11393,,,,Normal,None,hmdb_metabolites-40680
+11394,,,,Normal,None,hmdb_metabolites-40681
+11395,,,,Normal,None,hmdb_metabolites-40682
+11396,,,,Normal,None,hmdb_metabolites-40683
+11397,,,,Normal,None,hmdb_metabolites-40684
+11398,,,,Normal,None,hmdb_metabolites-40685
+11399,,,,Normal,None,hmdb_metabolites-40686
+11400,,,,Normal,None,hmdb_metabolites-40687
+11401,,,,Normal,None,hmdb_metabolites-40688
+11402,,,,Normal,None,hmdb_metabolites-40689
+11403,,,,Normal,None,hmdb_metabolites-40690
+11404,,,,Normal,None,hmdb_metabolites-40691
+11405,,,,Normal,None,hmdb_metabolites-40692
+11406,,,,Normal,None,hmdb_metabolites-40693
+11407,,,,Normal,None,hmdb_metabolites-40694
+11408,,,,Normal,None,hmdb_metabolites-40695
+11409,,,,Normal,None,hmdb_metabolites-40696
+11410,,,,Normal,None,hmdb_metabolites-40697
+11411,,,,Normal,None,hmdb_metabolites-40698
+11412,,,,Normal,None,hmdb_metabolites-40699
+11413,,,,Normal,None,hmdb_metabolites-40700
+11414,,,,Normal,None,hmdb_metabolites-40701
+11415,,,,Normal,None,hmdb_metabolites-40702
+11416,,,,Normal,None,hmdb_metabolites-40703
+11417,,,,Normal,None,hmdb_metabolites-40704
+11418,,,,Normal,None,hmdb_metabolites-40705
+11419,,,,Normal,None,hmdb_metabolites-40706
+11420,,,,Normal,None,hmdb_metabolites-40707
+11421,,,,Normal,None,hmdb_metabolites-40708
+11422,,,,Normal,None,hmdb_metabolites-40709
+11423,,,,Normal,None,hmdb_metabolites-40710
+11424,,,,Normal,None,hmdb_metabolites-40711
+11425,,,,Normal,None,hmdb_metabolites-40712
+11426,,,,Normal,None,hmdb_metabolites-40713
+11427,,,,Normal,None,hmdb_metabolites-40714
+11428,,,,Normal,None,hmdb_metabolites-40715
+11429,,,,Normal,None,hmdb_metabolites-40716
+11430,,,,Normal,None,hmdb_metabolites-40717
+11431,,,,Normal,None,hmdb_metabolites-40718
+11432,,,,Normal,None,hmdb_metabolites-40719
+11433,,,,Normal,None,hmdb_metabolites-40720
+11434,,,,Normal,None,hmdb_metabolites-40721
+11435,,,,Normal,None,hmdb_metabolites-40722
+11436,,,,Normal,None,hmdb_metabolites-40723
+11437,,,,Normal,None,hmdb_metabolites-40724
+11438,,,,Normal,None,hmdb_metabolites-40725
+11439,,,,Normal,None,hmdb_metabolites-40726
+11440,,,,Normal,None,hmdb_metabolites-40727
+11441,,,,Normal,None,hmdb_metabolites-40728
+11442,,,,Normal,None,hmdb_metabolites-40729
+11443,,,,Normal,None,hmdb_metabolites-40730
+11444,,,,Normal,None,hmdb_metabolites-40731
+11445,,,,Normal,None,hmdb_metabolites-40732
+11446,,,,Normal,None,hmdb_metabolites-40733
+11447,,,,Normal,None,hmdb_metabolites-40734
+11448,,,,Normal,None,hmdb_metabolites-40735
+11449,,,,Normal,None,hmdb_metabolites-40736
+11450,,,,Normal,None,hmdb_metabolites-40737
+11451,,,,Normal,None,hmdb_metabolites-40738
+11452,,,,Normal,None,hmdb_metabolites-40739
+11453,,,,Normal,None,hmdb_metabolites-40740
+11454,,,,Normal,None,hmdb_metabolites-40741
+11455,,,,Normal,None,hmdb_metabolites-40742
+11456,,,,Normal,None,hmdb_metabolites-40743
+11457,,,,Normal,None,hmdb_metabolites-40744
+11458,,,,Normal,None,hmdb_metabolites-40745
+11459,,,,Normal,None,hmdb_metabolites-40746
+11460,,,,Normal,None,hmdb_metabolites-40747
+11461,,,,Normal,None,hmdb_metabolites-40748
+11462,,,,Normal,None,hmdb_metabolites-40749
+11463,,,,Normal,None,hmdb_metabolites-40750
+11464,,,,Normal,None,hmdb_metabolites-40751
+11465,,,,Normal,None,hmdb_metabolites-40752
+11466,,,,Normal,None,hmdb_metabolites-40753
+11467,,,,Normal,None,hmdb_metabolites-40754
+11468,,,,Normal,None,hmdb_metabolites-40755
+11469,,,,Normal,None,hmdb_metabolites-40756
+11470,,,,Normal,None,hmdb_metabolites-40757
+11471,,,,Normal,None,hmdb_metabolites-40758
+11472,,,,Normal,None,hmdb_metabolites-40759
+11473,,,,Normal,None,hmdb_metabolites-40760
+11474,,,,Normal,None,hmdb_metabolites-40761
+11475,,,,Normal,None,hmdb_metabolites-40762
+11476,,,,Normal,None,hmdb_metabolites-40763
+11477,,,,Normal,None,hmdb_metabolites-40764
+11478,,,,Normal,None,hmdb_metabolites-40765
+11479,,,,Normal,None,hmdb_metabolites-40766
+11480,,,,Normal,None,hmdb_metabolites-40767
+11481,,,,Normal,None,hmdb_metabolites-40768
+11482,,,,Normal,None,hmdb_metabolites-40769
+11483,,,,Normal,None,hmdb_metabolites-40770
+11484,,,,Normal,None,hmdb_metabolites-40771
+11485,,,,Normal,None,hmdb_metabolites-40772
+11486,,,,Normal,None,hmdb_metabolites-40773
+11487,,,,Normal,None,hmdb_metabolites-40774
+11488,,,,Normal,None,hmdb_metabolites-40775
+11489,,,,Normal,None,hmdb_metabolites-40776
+11490,,,,Normal,None,hmdb_metabolites-40777
+11491,,,,Normal,None,hmdb_metabolites-40778
+11492,,,,Normal,None,hmdb_metabolites-40779
+11493,,,,Normal,None,hmdb_metabolites-40780
+11494,,,,Normal,None,hmdb_metabolites-40781
+11495,,,,Normal,None,hmdb_metabolites-40782
+11496,,,,Normal,None,hmdb_metabolites-40783
+11497,,,,Normal,None,hmdb_metabolites-40784
+11498,,,,Normal,None,hmdb_metabolites-40785
+11499,,,,Normal,None,hmdb_metabolites-40786
+11500,,,,Normal,None,hmdb_metabolites-40787
+11501,,,,Normal,None,hmdb_metabolites-40788
+11502,,,,Normal,None,hmdb_metabolites-40789
+11503,,,,Normal,None,hmdb_metabolites-40790
+11504,,,,Normal,None,hmdb_metabolites-40791
+11505,,,,Normal,None,hmdb_metabolites-40792
+11506,,,,Normal,None,hmdb_metabolites-40793
+11507,,,,Normal,None,hmdb_metabolites-40794
+11508,,,,Normal,None,hmdb_metabolites-40795
+11509,,,,Normal,None,hmdb_metabolites-40796
+11510,,,,Normal,None,hmdb_metabolites-40797
+11511,,,,Normal,None,hmdb_metabolites-40798
+11512,,,,Normal,None,hmdb_metabolites-40799
+11513,,,,Normal,None,hmdb_metabolites-40800
+11514,,,,Normal,None,hmdb_metabolites-40801
+11515,,,,Normal,None,hmdb_metabolites-40802
+11516,,,,Normal,None,hmdb_metabolites-40803
+11517,,,,Normal,None,hmdb_metabolites-40804
+11518,,,,Normal,None,hmdb_metabolites-40805
+11519,,,,Normal,None,hmdb_metabolites-40806
+11520,,,,Normal,None,hmdb_metabolites-40807
+11521,,,,Normal,None,hmdb_metabolites-40808
+11522,,,,Normal,None,hmdb_metabolites-40809
+11523,,,,Normal,None,hmdb_metabolites-40810
+11524,,,,Normal,None,hmdb_metabolites-40811
+11525,,,,Normal,None,hmdb_metabolites-40812
+11526,,,,Normal,None,hmdb_metabolites-40813
+11527,,,,Normal,None,hmdb_metabolites-40814
+11528,,,,Normal,None,hmdb_metabolites-40815
+11529,,,,Normal,None,hmdb_metabolites-40816
+11530,,,,Normal,None,hmdb_metabolites-40817
+11531,,,,Normal,None,hmdb_metabolites-40818
+11532,,,,Normal,None,hmdb_metabolites-40819
+11533,,,,Normal,None,hmdb_metabolites-40820
+11534,,,,Normal,None,hmdb_metabolites-40821
+11535,,,,Normal,None,hmdb_metabolites-40822
+11536,,,,Normal,None,hmdb_metabolites-40823
+11537,,,,Normal,None,hmdb_metabolites-40824
+11538,,,,Normal,None,hmdb_metabolites-40825
+11539,,,,Normal,None,hmdb_metabolites-40826
+11540,,,,Normal,None,hmdb_metabolites-40827
+11541,,,,Normal,None,hmdb_metabolites-40828
+11542,,,,Normal,None,hmdb_metabolites-40829
+11543,,,,Normal,None,hmdb_metabolites-40830
+11544,,,,Normal,None,hmdb_metabolites-40831
+11545,,,,Normal,None,hmdb_metabolites-40832
+11546,,,,Normal,None,hmdb_metabolites-40833
+11547,,,,Normal,None,hmdb_metabolites-40834
+11548,,,,Normal,None,hmdb_metabolites-40835
+11549,,,,Normal,None,hmdb_metabolites-40836
+11550,,,,Normal,None,hmdb_metabolites-40837
+11551,,,,Normal,None,hmdb_metabolites-40838
+11552,,,,Normal,None,hmdb_metabolites-40839
+11553,,,,Normal,None,hmdb_metabolites-40840
+11554,,,,Normal,None,hmdb_metabolites-40841
+11555,,,,Normal,None,hmdb_metabolites-40842
+11556,,,,Normal,None,hmdb_metabolites-40843
+11557,,,,Normal,None,hmdb_metabolites-40844
+11558,,,,Normal,None,hmdb_metabolites-40845
+11559,,,,Normal,None,hmdb_metabolites-40846
+11560,,,,Normal,None,hmdb_metabolites-40847
+11561,,,,Normal,None,hmdb_metabolites-40848
+11562,,,,Normal,None,hmdb_metabolites-40849
+11563,,,,Normal,None,hmdb_metabolites-40850
+11564,,,,Normal,None,hmdb_metabolites-40851
+11565,,,,Normal,None,hmdb_metabolites-40852
+11566,,,,Normal,None,hmdb_metabolites-40853
+11567,,,,Normal,None,hmdb_metabolites-40854
+11568,,,,Normal,None,hmdb_metabolites-40855
+11569,,,,Normal,None,hmdb_metabolites-40856
+11570,,,,Normal,None,hmdb_metabolites-40857
+11571,,,,Normal,None,hmdb_metabolites-40858
+11572,,,,Normal,None,hmdb_metabolites-40859
+11573,,,,Normal,None,hmdb_metabolites-40860
+11574,,,,Normal,None,hmdb_metabolites-40861
+11575,,,,Normal,None,hmdb_metabolites-40862
+11576,,,,Normal,None,hmdb_metabolites-40863
+11577,,,,Normal,None,hmdb_metabolites-40864
+11578,,,,Normal,None,hmdb_metabolites-40865
+11579,,,,Normal,None,hmdb_metabolites-40866
+11580,,,,Normal,None,hmdb_metabolites-40867
+11581,,,,Normal,None,hmdb_metabolites-40868
+11582,,,,Normal,None,hmdb_metabolites-40869
+11583,,,,Normal,None,hmdb_metabolites-40870
+11584,,,,Normal,None,hmdb_metabolites-40871
+11585,,,,Normal,None,hmdb_metabolites-40872
+11586,,,,Normal,None,hmdb_metabolites-40873
+11587,,,,Normal,None,hmdb_metabolites-40874
+11588,,,,Normal,None,hmdb_metabolites-40875
+11589,,,,Normal,None,hmdb_metabolites-40876
+11590,,,,Normal,None,hmdb_metabolites-40877
+11591,,,,Normal,None,hmdb_metabolites-40878
+11592,,,,Normal,None,hmdb_metabolites-40879
+11593,,,,Normal,None,hmdb_metabolites-40880
+11594,,,,Normal,None,hmdb_metabolites-40881
+11595,,,,Normal,None,hmdb_metabolites-40882
+11596,,,,Normal,None,hmdb_metabolites-40883
+11597,,,,Normal,None,hmdb_metabolites-40884
+11598,,,,Normal,None,hmdb_metabolites-40885
+11599,,,,Normal,None,hmdb_metabolites-40886
+11600,,,,Normal,None,hmdb_metabolites-40887
+11601,,,,Normal,None,hmdb_metabolites-40888
+11602,,,,Normal,None,hmdb_metabolites-40889
+11603,,,,Normal,None,hmdb_metabolites-40890
+11604,,,,Normal,None,hmdb_metabolites-40891
+11605,,,,Normal,None,hmdb_metabolites-40892
+11606,,,,Normal,None,hmdb_metabolites-40893
+11607,,,,Normal,None,hmdb_metabolites-40894
+11608,,,,Normal,None,hmdb_metabolites-40895
+11609,,,,Normal,None,hmdb_metabolites-40896
+11610,,,,Normal,None,hmdb_metabolites-40897
+11611,,,,Normal,None,hmdb_metabolites-40898
+11612,,,,Normal,None,hmdb_metabolites-40899
+11613,,,,Normal,None,hmdb_metabolites-40900
+11614,,,,Normal,None,hmdb_metabolites-40901
+11615,,,,Normal,None,hmdb_metabolites-40902
+11616,,,,Normal,None,hmdb_metabolites-40903
+11617,,,,Normal,None,hmdb_metabolites-40904
+11618,,,,Normal,None,hmdb_metabolites-40905
+11619,,,,Normal,None,hmdb_metabolites-40906
+11620,,,,Normal,None,hmdb_metabolites-40907
+11621,,,,Normal,None,hmdb_metabolites-40908
+11622,,,,Normal,None,hmdb_metabolites-40909
+11623,,,,Normal,None,hmdb_metabolites-40910
+11624,,,,Normal,None,hmdb_metabolites-40911
+11625,,,,Normal,None,hmdb_metabolites-40912
+11626,,,,Normal,None,hmdb_metabolites-40913
+11627,,,,Normal,None,hmdb_metabolites-40914
+11628,,,,Normal,None,hmdb_metabolites-40915
+11629,,,,Normal,None,hmdb_metabolites-40916
+11630,,,,Normal,None,hmdb_metabolites-40917
+11631,,,,Normal,None,hmdb_metabolites-40918
+11632,,,,Normal,None,hmdb_metabolites-40919
+11633,,,,Normal,None,hmdb_metabolites-40920
+11634,,,,Normal,None,hmdb_metabolites-40921
+11635,,,,Normal,None,hmdb_metabolites-40922
+11636,,,,Normal,None,hmdb_metabolites-40923
+11637,,,,Normal,None,hmdb_metabolites-40924
+11638,,,,Normal,None,hmdb_metabolites-40925
+11639,,,,Normal,None,hmdb_metabolites-40926
+11640,,,,Normal,None,hmdb_metabolites-40927
+11641,,,,Normal,None,hmdb_metabolites-40928
+11642,,,,Normal,None,hmdb_metabolites-40929
+11643,,,,Normal,None,hmdb_metabolites-40930
+11644,,,,Normal,None,hmdb_metabolites-40931
+11645,,,,Normal,None,hmdb_metabolites-40932
+11646,,,,Normal,None,hmdb_metabolites-40933
+11647,,,,Normal,None,hmdb_metabolites-40934
+11648,,,,Normal,None,hmdb_metabolites-40935
+11649,,,,Normal,None,hmdb_metabolites-40936
+11650,,,,Normal,None,hmdb_metabolites-40937
+11651,,,,Normal,None,hmdb_metabolites-40938
+11652,,,,Normal,None,hmdb_metabolites-40939
+11653,,,,Normal,None,hmdb_metabolites-40940
+11654,,,,Normal,None,hmdb_metabolites-40941
+11655,,,,Normal,None,hmdb_metabolites-40942
+11656,,,,Normal,None,hmdb_metabolites-40943
+11657,,,,Normal,None,hmdb_metabolites-40944
+11658,,,,Normal,None,hmdb_metabolites-40945
+11659,,,,Normal,None,hmdb_metabolites-40946
+11660,,,,Normal,None,hmdb_metabolites-40947
+11661,,,,Normal,None,hmdb_metabolites-40948
+11662,,,,Normal,None,hmdb_metabolites-40949
+11663,,,,Normal,None,hmdb_metabolites-40950
+11664,,,,Normal,None,hmdb_metabolites-40951
+11665,,,,Normal,None,hmdb_metabolites-40952
+11666,,,,Normal,None,hmdb_metabolites-40953
+11667,,,,Normal,None,hmdb_metabolites-40954
+11668,,,,Normal,None,hmdb_metabolites-40955
+11669,,,,Normal,None,hmdb_metabolites-40956
+11670,,,,Normal,None,hmdb_metabolites-40957
+11671,,,,Normal,None,hmdb_metabolites-40958
+11672,,,,Normal,None,hmdb_metabolites-40959
+11673,,,,Normal,None,hmdb_metabolites-40960
+11674,,,,Normal,None,hmdb_metabolites-40961
+11675,,,,Normal,None,hmdb_metabolites-40962
+11676,,,,Normal,None,hmdb_metabolites-40963
+11677,,,,Normal,None,hmdb_metabolites-40964
+11678,,,,Normal,None,hmdb_metabolites-40965
+11679,,,,Normal,None,hmdb_metabolites-40966
+11680,,,,Normal,None,hmdb_metabolites-40967
+11681,,,,Normal,None,hmdb_metabolites-40968
+11682,,,,Normal,None,hmdb_metabolites-40969
+11683,,,,Normal,None,hmdb_metabolites-40970
+11684,,,,Normal,None,hmdb_metabolites-40971
+11685,,,,Normal,None,hmdb_metabolites-40972
+11686,,,,Normal,None,hmdb_metabolites-40973
+11687,,,,Normal,None,hmdb_metabolites-40974
+11688,,,,Normal,None,hmdb_metabolites-40975
+11689,,,,Normal,None,hmdb_metabolites-40976
+11690,,,,Normal,None,hmdb_metabolites-40977
+11691,,,,Normal,None,hmdb_metabolites-40978
+11692,,,,Normal,None,hmdb_metabolites-40979
+11693,,,,Normal,None,hmdb_metabolites-40980
+11694,,,,Normal,None,hmdb_metabolites-40981
+11695,,,,Normal,None,hmdb_metabolites-40982
+11696,,,,Normal,None,hmdb_metabolites-40983
+11697,,,,Normal,None,hmdb_metabolites-40984
+11698,,,,Normal,None,hmdb_metabolites-40985
+11699,,,,Normal,None,hmdb_metabolites-40986
+11700,,,,Normal,None,hmdb_metabolites-40987
+11701,,,,Normal,None,hmdb_metabolites-40988
+11702,,,,Normal,None,hmdb_metabolites-40989
+11703,,,,Normal,None,hmdb_metabolites-40990
+11704,,,,Normal,None,hmdb_metabolites-40991
+11705,,,,Normal,None,hmdb_metabolites-40992
+11706,,,,Normal,None,hmdb_metabolites-40993
+11707,,,,Normal,None,hmdb_metabolites-40994
+11708,,,,Normal,None,hmdb_metabolites-40995
+11709,,,,Normal,None,hmdb_metabolites-40996
+11710,,,,Normal,None,hmdb_metabolites-40997
+11711,,,,Normal,None,hmdb_metabolites-40998
+11712,,,,Normal,None,hmdb_metabolites-40999
+11713,,,,Normal,None,hmdb_metabolites-41000
+11714,,,,Normal,None,hmdb_metabolites-41001
+11715,,,,Normal,None,hmdb_metabolites-41002
+11716,,,,Normal,None,hmdb_metabolites-41003
+11717,,,,Normal,None,hmdb_metabolites-41004
+11718,,,,Normal,None,hmdb_metabolites-41005
+11719,,,,Normal,None,hmdb_metabolites-41006
+11720,,,,Normal,None,hmdb_metabolites-41007
+11721,,,,Normal,None,hmdb_metabolites-41008
+11722,,,,Normal,None,hmdb_metabolites-41009
+11723,,,,Normal,None,hmdb_metabolites-41010
+11724,,,,Normal,None,hmdb_metabolites-41011
+11725,,,,Normal,None,hmdb_metabolites-41012
+11726,,,,Normal,None,hmdb_metabolites-41013
+11727,,,,Normal,None,hmdb_metabolites-41014
+11728,,,,Normal,None,hmdb_metabolites-41015
+11729,,,,Normal,None,hmdb_metabolites-41016
+11730,,,,Normal,None,hmdb_metabolites-41017
+11731,,,,Normal,None,hmdb_metabolites-41018
+11732,,,,Normal,None,hmdb_metabolites-41019
+11733,,,,Normal,None,hmdb_metabolites-41020
+11734,,,,Normal,None,hmdb_metabolites-41021
+11735,,,,Normal,None,hmdb_metabolites-41022
+11736,,,,Normal,None,hmdb_metabolites-41023
+11737,,,,Normal,None,hmdb_metabolites-41024
+11738,,,,Normal,None,hmdb_metabolites-41025
+11739,,,,Normal,None,hmdb_metabolites-41026
+11740,,,,Normal,None,hmdb_metabolites-41027
+11741,,,,Normal,None,hmdb_metabolites-41028
+11742,,,,Normal,None,hmdb_metabolites-41029
+11743,,,,Normal,None,hmdb_metabolites-41030
+11744,,,,Normal,None,hmdb_metabolites-41031
+11745,,,,Normal,None,hmdb_metabolites-41032
+11746,,,,Normal,None,hmdb_metabolites-41033
+11747,,,,Normal,None,hmdb_metabolites-41034
+11748,,,,Normal,None,hmdb_metabolites-41035
+11749,,,,Normal,None,hmdb_metabolites-41036
+11750,,,,Normal,None,hmdb_metabolites-41037
+11751,,,,Normal,None,hmdb_metabolites-41038
+11752,,,,Normal,None,hmdb_metabolites-41039
+11753,,,,Normal,None,hmdb_metabolites-41040
+11754,,,,Normal,None,hmdb_metabolites-41041
+11755,,,,Normal,None,hmdb_metabolites-41042
+11756,,,,Normal,None,hmdb_metabolites-41043
+11757,,,,Normal,None,hmdb_metabolites-41044
+11758,,,,Normal,None,hmdb_metabolites-41045
+11759,,,,Normal,None,hmdb_metabolites-41046
+11760,,,,Normal,None,hmdb_metabolites-41047
+11761,,,,Normal,None,hmdb_metabolites-41048
+11762,,,,Normal,None,hmdb_metabolites-41049
+11763,,,,Normal,None,hmdb_metabolites-41050
+11764,,,,Normal,None,hmdb_metabolites-41051
+11765,,,,Normal,None,hmdb_metabolites-41052
+11766,,,,Normal,None,hmdb_metabolites-41053
+11767,,,,Normal,None,hmdb_metabolites-41054
+11768,,,,Normal,None,hmdb_metabolites-41055
+11769,,,,Normal,None,hmdb_metabolites-41056
+11770,,,,Normal,None,hmdb_metabolites-41057
+11771,,,,Normal,None,hmdb_metabolites-41058
+11772,,,,Normal,None,hmdb_metabolites-41059
+11773,,,,Normal,None,hmdb_metabolites-41060
+11774,,,,Normal,None,hmdb_metabolites-41061
+11775,,,,Normal,None,hmdb_metabolites-41062
+11776,,,,Normal,None,hmdb_metabolites-41063
+11777,,,,Normal,None,hmdb_metabolites-41064
+11778,,,,Normal,None,hmdb_metabolites-41065
+11779,,,,Normal,None,hmdb_metabolites-41066
+11780,,,,Normal,None,hmdb_metabolites-41067
+11781,,,,Normal,None,hmdb_metabolites-41068
+11782,,,,Normal,None,hmdb_metabolites-41069
+11783,,,,Normal,None,hmdb_metabolites-41070
+11784,,,,Normal,None,hmdb_metabolites-41071
+11785,,,,Normal,None,hmdb_metabolites-41072
+11786,,,,Normal,None,hmdb_metabolites-41073
+11787,,,,Normal,None,hmdb_metabolites-41074
+11788,,,,Normal,None,hmdb_metabolites-41075
+11789,,,,Normal,None,hmdb_metabolites-41076
+11790,,,,Normal,None,hmdb_metabolites-41077
+11791,,,,Normal,None,hmdb_metabolites-41078
+11792,,,,Normal,None,hmdb_metabolites-41079
+11793,,,,Normal,None,hmdb_metabolites-41080
+11794,,,,Normal,None,hmdb_metabolites-41081
+11795,,,,Normal,None,hmdb_metabolites-41082
+11796,,,,Normal,None,hmdb_metabolites-41083
+11797,,,,Normal,None,hmdb_metabolites-41084
+11798,,,,Normal,None,hmdb_metabolites-41085
+11799,,,,Normal,None,hmdb_metabolites-41086
+11800,,,,Normal,None,hmdb_metabolites-41087
+11801,,,,Normal,None,hmdb_metabolites-41088
+11802,,,,Normal,None,hmdb_metabolites-41089
+11803,,,,Normal,None,hmdb_metabolites-41090
+11804,,,,Normal,None,hmdb_metabolites-41091
+11805,,,,Normal,None,hmdb_metabolites-41092
+11806,,,,Normal,None,hmdb_metabolites-41093
+11807,,,,Normal,None,hmdb_metabolites-41094
+11808,,,,Normal,None,hmdb_metabolites-41095
+11809,,,,Normal,None,hmdb_metabolites-41096
+11810,,,,Normal,None,hmdb_metabolites-41097
+11811,,,,Normal,None,hmdb_metabolites-41098
+11812,,,,Normal,None,hmdb_metabolites-41099
+11813,,,,Normal,None,hmdb_metabolites-41100
+11814,,,,Normal,None,hmdb_metabolites-41101
+11815,,,,Normal,None,hmdb_metabolites-41102
+11816,,,,Normal,None,hmdb_metabolites-41103
+11817,,,,Normal,None,hmdb_metabolites-41104
+11818,,,,Normal,None,hmdb_metabolites-41105
+11819,,,,Normal,None,hmdb_metabolites-41106
+11820,,,,Normal,None,hmdb_metabolites-41107
+11821,,,,Normal,None,hmdb_metabolites-41108
+11822,,,,Normal,None,hmdb_metabolites-41109
+11823,,,,Normal,None,hmdb_metabolites-41110
+11824,,,,Normal,None,hmdb_metabolites-41111
+11825,,,,Normal,None,hmdb_metabolites-41112
+11826,,,,Normal,None,hmdb_metabolites-41113
+11827,,,,Normal,None,hmdb_metabolites-41114
+11828,,,,Normal,None,hmdb_metabolites-41115
+11829,,,,Normal,None,hmdb_metabolites-41116
+11830,,,,Normal,None,hmdb_metabolites-41117
+11831,,,,Normal,None,hmdb_metabolites-41118
+11832,,,,Normal,None,hmdb_metabolites-41119
+11833,,,,Normal,None,hmdb_metabolites-41120
+11834,,,,Normal,None,hmdb_metabolites-41121
+11835,,,,Normal,None,hmdb_metabolites-41122
+11836,,,,Normal,None,hmdb_metabolites-41123
+11837,,,,Normal,None,hmdb_metabolites-41124
+11838,,,,Normal,None,hmdb_metabolites-41125
+11839,,,,Normal,None,hmdb_metabolites-41126
+11840,,,,Normal,None,hmdb_metabolites-41127
+11841,,,,Normal,None,hmdb_metabolites-41128
+11842,,,,Normal,None,hmdb_metabolites-41129
+11843,,,,Normal,None,hmdb_metabolites-41130
+11844,,,,Normal,None,hmdb_metabolites-41131
+11845,,,,Normal,None,hmdb_metabolites-41132
+11846,,,,Normal,None,hmdb_metabolites-41133
+11847,,,,Normal,None,hmdb_metabolites-41134
+11848,,,,Normal,None,hmdb_metabolites-41135
+11849,,,,Normal,None,hmdb_metabolites-41136
+11850,,,,Normal,None,hmdb_metabolites-41137
+11851,,,,Normal,None,hmdb_metabolites-41138
+11852,,,,Normal,None,hmdb_metabolites-41139
+11853,,,,Normal,None,hmdb_metabolites-41140
+11854,,,,Normal,None,hmdb_metabolites-41141
+11855,,,,Normal,None,hmdb_metabolites-41142
+11856,,,,Normal,None,hmdb_metabolites-41143
+11857,,,,Normal,None,hmdb_metabolites-41144
+11858,,,,Normal,None,hmdb_metabolites-41145
+11859,,,,Normal,None,hmdb_metabolites-41146
+11860,,,,Normal,None,hmdb_metabolites-41147
+11861,,,,Normal,None,hmdb_metabolites-41148
+11862,4.6 +/- 4.2,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-41149
+11863,,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-41149
+11864,,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-41149
+11865,,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-41149
+11866,,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-41149
+11867,,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-41149
+11868,,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-41149
+11869,,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-41149
+11870,,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-41149
+11871,,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-41149
+11872,14.98 +/- 0.83,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-41149
+11873,,,,Normal,None,hmdb_metabolites-41155
+11874,,,,Normal,None,hmdb_metabolites-41156
+11875,,,,Normal,None,hmdb_metabolites-41157
+11876,,,,Normal,None,hmdb_metabolites-41158
+11877,,,,Normal,None,hmdb_metabolites-41159
+11878,,,,Normal,None,hmdb_metabolites-41160
+11879,,,,Normal,None,hmdb_metabolites-41161
+11880,,,,Normal,None,hmdb_metabolites-41162
+11881,,,,Normal,None,hmdb_metabolites-41163
+11882,,,,Normal,None,hmdb_metabolites-41164
+11883,,,,Normal,None,hmdb_metabolites-41165
+11884,,,,Normal,None,hmdb_metabolites-41166
+11885,,,,Normal,None,hmdb_metabolites-41167
+11886,,,,Normal,None,hmdb_metabolites-41168
+11887,,,,Normal,None,hmdb_metabolites-41169
+11888,,,,Normal,None,hmdb_metabolites-41170
+11889,,,,Normal,None,hmdb_metabolites-41171
+11890,,,,Normal,None,hmdb_metabolites-41172
+11891,,,,Normal,None,hmdb_metabolites-41173
+11892,,,,Normal,None,hmdb_metabolites-41174
+11893,,,,Normal,None,hmdb_metabolites-41175
+11894,,,,Normal,None,hmdb_metabolites-41176
+11895,,,,Normal,None,hmdb_metabolites-41177
+11896,,,,Normal,None,hmdb_metabolites-41178
+11897,,,,Normal,None,hmdb_metabolites-41179
+11898,,,,Normal,None,hmdb_metabolites-41180
+11899,,,,Normal,None,hmdb_metabolites-41181
+11900,,,,Normal,None,hmdb_metabolites-41182
+11901,,,,Normal,None,hmdb_metabolites-41183
+11902,,,,Normal,None,hmdb_metabolites-41184
+11903,,,,Normal,None,hmdb_metabolites-41185
+11904,,,,Normal,None,hmdb_metabolites-41186
+11905,,,,Normal,None,hmdb_metabolites-41187
+11906,,,,Normal,None,hmdb_metabolites-41188
+11907,,,,Normal,None,hmdb_metabolites-41189
+11908,,,,Normal,None,hmdb_metabolites-41190
+11909,,,,Normal,None,hmdb_metabolites-41191
+11910,,,,Normal,None,hmdb_metabolites-41192
+11911,,,,Normal,None,hmdb_metabolites-41193
+11912,,,,Normal,None,hmdb_metabolites-41194
+11913,,,,Normal,None,hmdb_metabolites-41195
+11914,,,,Normal,None,hmdb_metabolites-41196
+11915,,,,Normal,None,hmdb_metabolites-41197
+11916,,,,Normal,None,hmdb_metabolites-41198
+11917,,,,Normal,None,hmdb_metabolites-41199
+11918,,,,Normal,None,hmdb_metabolites-41200
+11919,,,,Normal,None,hmdb_metabolites-41201
+11920,,,,Normal,None,hmdb_metabolites-41202
+11921,,,,Normal,None,hmdb_metabolites-41203
+11922,,,,Normal,None,hmdb_metabolites-41204
+11923,,,,Normal,None,hmdb_metabolites-41205
+11924,,,,Normal,None,hmdb_metabolites-41206
+11925,,,,Normal,None,hmdb_metabolites-41207
+11926,0.51,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-41208
+11927,0.45 +/- 0.18,Children (1 - 13 years old),Not Specified,Normal,None,hmdb_metabolites-41208
+11928,0.0000-0.400,Not Specified,Not Specified,Normal,None,hmdb_metabolites-41208
+11929,<0.510,Not Specified,Not Specified,Normal,None,hmdb_metabolites-41208
+11930,0,Children (1 - 13 years old),Both,Normal,None,hmdb_metabolites-41208
+11931,0.17 (0.13-0.20),Infant (0-1 year old),Both,Normal,None,hmdb_metabolites-41208
+11932,<0.000386,Adolescent (13-18 years old),Not Specified,Normal,None,hmdb_metabolites-41209
+11933,0.000249,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-41212
+11934,0.0553,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-41212
+11935,0.00173 +/- 0.00294,Adult (>18 years old),Both,N/A,None,hmdb_metabolites-41212
+11936,0.0038 +/- 0.00415,Adult (>18 years old),Both,N/A,None,hmdb_metabolites-41212
+11937,,Not Specified,Not Specified,N/A,None,hmdb_metabolites-41213
+11938,,Not Specified,Not Specified,N/A,None,hmdb_metabolites-41214
+11939,20,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-41478
+11940,,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-41531
+11941,,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-41531
+11942,0.00000885 (0.00000678-0.0000115),Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-41545
+11943,0.00000751 (0.0000058-0.00000971),Children (1-13 years old),Not Specified,Normal,None,hmdb_metabolites-41545
+11944,0.00000357 (0.00000215-0.00000593),Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-41546
+11945,0.000562 (0.000515-0.000611),Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-41551
+11946,0.00338 (0.00295-0.00388),Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-41552
+11947,0.00289 (0.00250-0.00334),Children (1-13 years old),Not Specified,Normal,None,hmdb_metabolites-41552
+11948,0.000703 (0.000583-0.000845),Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-41553
+11949,0.00108 (0.00101-0.00114),Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-41554
+11950,0.000333 (0.000298-0.000350),Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-41555
+11951,0.000323 (0.000284-0.000372),Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-41556
+11952,0.0000710 (0.0000346-0.000146),Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-41559
+11953,0.0000664 (0.0000319-0.000149),Children (1-13 years old),Not Specified,Normal,None,hmdb_metabolites-41559
+11954,39.79 +/- 1.59,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-41560
+11955,,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-41641
+11956,0.00043-0.00500,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-41696
+11957,0.0000062 (0.0000042-0.0000091),Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-41718
+11958,0.000600 +/- 0.000200,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-41720
+11959,,Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-41724
+11960,,Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-41724
+11961,,Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-41725
+11962,,Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-41725
+11963,,Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-41726
+11964,,Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-41726
+11965,,Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-41727
+11966,,Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-41727
+11967,11.722 +/- 5.378,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-41957
+11968,,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-42043
+11969,,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-42117
+11970,2010 +/- 530,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-42152
+11971,2170 +/- 600,Adult (>18 years old),Male,Normal,None,hmdb_metabolites-42152
+11972,,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-42202
+11973,,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-42202
+11974,<0.28,Adolescent (13-18 years old),Male,Normal,None,hmdb_metabolites-74096
+11975,0.12 +/- 0.03,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-74096
+11976,0.14(0.04),Adult (>18 years old),Both,Normal,None,hmdb_metabolites-74096
+11977,,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-74100
+11978,,Adult (>18 years old),Both,Normal,None,hmdb_metabolites-74100
+11979,0.00402 (0.00362-0.00425),Adult (>18 years old),Not Specified,Normal,None,hmdb_metabolites-74104
+11980,0.00507 (0.00442-0.00582),Children (1-13 years old),Not Specified,Normal,None,hmdb_metabolites-74104
+11981,,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-91426
+11982,,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-91427
+11983,,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-91428
+11984,,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-91429
+11985,,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-91430
+11986,,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-91431
+11987,,Adult (>18 years old),Female,Normal,None,hmdb_metabolites-91432
