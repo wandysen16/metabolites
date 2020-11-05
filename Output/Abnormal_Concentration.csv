@@ -1,4 +1,4 @@
-,Value(uM),Patient Age,Patient Sex,Patient Information,Name,Accession
+,Name,Accession,Value(uM),Patient Age,Patient Sex,Patient Information
 0,1-Methylhistidine,HMDB0000001,51.2 +/- 17.6 ,Adult (>18 years old),Female,Pregnancy with fetuses with trisomy 18
 1,1-Methylhistidine,HMDB0000001,43.4 +/- 22.3 ,Adult (>18 years old),Female,Pregnancy
 2,1-Methylhistidine,HMDB0000001,50.7 (12.9) ,Adult (>18 years old),Female,Early preeclampsia

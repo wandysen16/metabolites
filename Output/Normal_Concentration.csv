@@ -1,4 +1,4 @@
-,Value(uM),Subject Age,Subject Sex,Subject Information,Name,Accession
+,Name,Accession,Value(uM),Subject Age,Subject Sex,Subject Information
 0,1-Methylhistidine,HMDB0000001,7.7 +/- 1.9,Adult (>18 years old),Both,Normal
 1,1-Methylhistidine,HMDB0000001,14.4 +/- 2.3,Adult (>18 years old),Both,Normal
 2,1-Methylhistidine,HMDB0000001,19.6 +/- 2.6,Adult (>18 years old),Both,Normal
