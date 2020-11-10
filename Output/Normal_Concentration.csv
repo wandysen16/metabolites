@@ -165,12 +165,12 @@
 163,Ammonia,HMDB0000051,13.000-42.000,Not Specified,Not Specified,Normal
 164,Ammonia,HMDB0000051,29.0 (10.0-47.0),Adult (>18 years old),Both,Normal
 165,Ammonia,HMDB0000051,40.0 (0 - 80.0),Adult (>18 years old),Both,Normal
-166,Ammonia,HMDB0000051,11-32,Not Specified,Not Specified,Normal
+166,Ammonia,HMDB0000051,Nov-32,Not Specified,Not Specified,Normal
 167,Ammonia,HMDB0000051,29.0 (13.0 - 46.0),Adult (>18 years old),Both,Normal
 168,Ammonia,HMDB0000051,35.0 (20.0 - 58.0),Adult (>18 years old),Male,Normal
 169,Ammonia,HMDB0000051,29.0 (17.0 - 51.0),Adult (>18 years old),Female,Normal
 170,Ammonia,HMDB0000051,1467.955 (763.336-2231.291),Children (1 - 13 years old),Not Specified,Normal
-171,Ammonia,HMDB0000051,9-33,Adolescent (13-18 years old),Male,Normal
+171,Ammonia,HMDB0000051,Sep-33,Adolescent (13-18 years old),Male,Normal
 172,Argininosuccinic acid,HMDB0000052,<2,Infant (0-1 year old),Male,Normal
 173,Argininosuccinic acid,HMDB0000052,0-5,Newborn (0-30 days old),Both,Normal
 174,Argininosuccinic acid,HMDB0000052,0-5,Infant (1 - 3 months old),Both,Normal
@@ -198,7 +198,7 @@
 196,Bilirubin,HMDB0000054,<12.828,Adult (>18 years old),Both,Normal
 197,Bilirubin,HMDB0000054,<12,Newborn (0-30 days old),Not Specified,Normal
 198,Bilirubin,HMDB0000054,<3.4,Children (1-13 years old),Not Specified,Normal
-199,Bilirubin,HMDB0000054,3-21,Newborn (0-30 days old),Not Specified,Normal
+199,Bilirubin,HMDB0000054,21-Mar,Newborn (0-30 days old),Not Specified,Normal
 200,Bilirubin,HMDB0000054,<20,Children (1-13 years old),Not Specified,Normal
 201,Bilirubin,HMDB0000054,8.0 +/- 0.9,Adult (>18 years old),Both,Normal
 202,Bilirubin,HMDB0000054,310.265 +/- 65.850,Newborn (0-30 days old),Not Specified,Normal
@@ -282,9 +282,9 @@
 280,Creatine,HMDB0000064,54.8 +/-  21.0,Adult (>18 years old),Female,Normal
 281,Creatine,HMDB0000064,87 +/- 19,Adult (>18 years old),Not Specified,Normal
 282,Creatine,HMDB0000064,30.1 +/- 12.3,Adult (>18 years old),Male,Normal
-283,Creatine,HMDB0000064,10-44,Not Specified,Not Specified,Normal
+283,Creatine,HMDB0000064,Oct-44,Not Specified,Not Specified,Normal
 284,Creatine,HMDB0000064,30-80,Not Specified,Not Specified,Normal
-285,Creatine,HMDB0000064,5-50,Children (1-13 years old),Not Specified,Normal
+285,Creatine,HMDB0000064,May-50,Children (1-13 years old),Not Specified,Normal
 286,Creatine,HMDB0000064,17-109,Children (1-13 years old),Not Specified,Normal
 287,Creatine,HMDB0000064,84.0 +/- 23.2,Newborn (0-30 days old),Not Specified,Normal
 288,Creatine,HMDB0000064,53.0 (17.0 - 82.0),Children (1-13 years old),Not Specified,Normal
@@ -388,7 +388,7 @@
 386,Cytidine,HMDB0000089,0.25 +/- 0.19,Adult (>18 years old),Both,Normal
 387,Cytidine,HMDB0000089,<2,Children (3 months - 6 years old),Not Specified,Normal
 388,Cytidine,HMDB0000089,0.1,Adult (>18 years old),Both,Normal
-389,Dimethylglycine,HMDB0000092,1-5,Adult (>18 years old),Not Specified,Normal
+389,Dimethylglycine,HMDB0000092,5-Jan,Adult (>18 years old),Not Specified,Normal
 390,Dimethylglycine,HMDB0000092,<3.700,Adult (>18 years old),Both,Normal
 391,Dimethylglycine,HMDB0000092,2.6 (1.8-3.7),Adult (>18 years old),Both,Normal
 392,Dimethylglycine,HMDB0000092,1.9 (1.1-3.4),Adult (>18 years old),Both,Normal
@@ -602,9 +602,9 @@
 600,Estrone,HMDB0000145,0.00020 (0.00011-0.00030),Adult (>18 years old),Male,Normal
 601,Estrone,HMDB0000145,0.00012 (0.0-0.00024),Adult (>18 years old),Female,Normal
 602,L-Glutamic acid,HMDB0000148,15-80,Newborn (0-30 days old),Both,Normal
-603,L-Glutamic acid,HMDB0000148,10-80,Infant (1 - 3 months old),Both,Normal
-604,L-Glutamic acid,HMDB0000148,8-80,Children (3 months - 6 years old),Both,Normal
-605,L-Glutamic acid,HMDB0000148,8-80,Children (6 - 18 years old),Both,Normal
+603,L-Glutamic acid,HMDB0000148,Oct-80,Infant (1 - 3 months old),Both,Normal
+604,L-Glutamic acid,HMDB0000148,Aug-80,Children (3 months - 6 years old),Both,Normal
+605,L-Glutamic acid,HMDB0000148,Aug-80,Children (6 - 18 years old),Both,Normal
 606,L-Glutamic acid,HMDB0000148,2-118,Infant (0-1 year old),Not Specified,Normal
 607,L-Glutamic acid,HMDB0000148,114.1 (75.2-203.1),Infant (0-1 year old),Not Specified,Normal
 608,L-Glutamic acid,HMDB0000148,90 +/- 65,Infant (0-1 year old),Both,Normal
@@ -986,7 +986,7 @@
 984,L-Lactic acid,HMDB0000190,200-2000,Infant (0-1 year old),Not Specified,Normal
 985,L-Aspartic acid,HMDB0000191,21.0 +/- 5.0,Adult (>18 years old),Male,Normal
 986,L-Aspartic acid,HMDB0000191,20.0 +/- 5.0,Adult (>18 years old),Female,Normal
-987,L-Aspartic acid,HMDB0000191,15.5 (tr-32.1),Infant (0-1 year old),Not Specified,Normal
+987,L-Aspartic acid,HMDB0000191,,Infant (0-1 year old),Not Specified,Normal
 988,L-Aspartic acid,HMDB0000191,6.26 +/- 2.34,Adult (>18 years old),Both,Normal
 989,L-Aspartic acid,HMDB0000191,8.00-20.0,Adult (>18 years old),Both,Normal
 990,L-Aspartic acid,HMDB0000191,,Adult (>18 years old),Both,Normal
@@ -999,7 +999,7 @@
 997,L-Cystine,HMDB0000192,130.0 +/- 20.0,Newborn (0-30 days old),Not Specified,Normal
 998,L-Cystine,HMDB0000192,26-61,Infant (1 - 3 months old),Both,Normal
 999,L-Cystine,HMDB0000192,91.0 +/- 20.0,Children (1-13 years old),Male,Normal
-1000,L-Cystine,HMDB0000192,8-68,Children (3 months - 6 years old),Both,Normal
+1000,L-Cystine,HMDB0000192,Aug-68,Children (3 months - 6 years old),Both,Normal
 1001,L-Cystine,HMDB0000192,96.0 +/- 19.0,Children (1-13 years old),Both,Normal
 1002,L-Cystine,HMDB0000192,15-65,Children (6 - 18 years old),Both,Normal
 1003,L-Cystine,HMDB0000192,118.0 +/- 17.0,Adult (>18 years old),Male,Normal
@@ -1076,7 +1076,7 @@
 1074,Oxoglutaric acid,HMDB0000208,8.6 +/- 2.6,Children (1-13 years old),Both,Normal
 1075,Oxoglutaric acid,HMDB0000208,9.3 +/- 2.3,Children (1-13 years old),Both,Normal
 1076,Oxoglutaric acid,HMDB0000208,8.9 +/- 2.7,Adult (>18 years old),Both,Normal
-1077,Oxoglutaric acid,HMDB0000208,4-13,Not Specified,Not Specified,Normal
+1077,Oxoglutaric acid,HMDB0000208,13-Apr,Not Specified,Not Specified,Normal
 1078,Oxoglutaric acid,HMDB0000208,20.7 +/- 2.5,Newborn (0-30 days old),Both,Normal
 1079,Oxoglutaric acid,HMDB0000208,,Adult (>18 years old),Both,Normal
 1080,Phenylacetic acid,HMDB0000209,47.24 +/- 5.866,Adult (>18 years old),Male,Normal
@@ -1301,7 +1301,7 @@
 1299,Taurine,HMDB0000251,42.0 +/- 12.0,Adult (>18 years old),Female,Normal
 1300,Taurine,HMDB0000251,19-265,Newborn (0-30 days old),Both,Normal
 1301,Taurine,HMDB0000251,19-190,Infant (1 - 3 months old),Both,Normal
-1302,Taurine,HMDB0000251,10-97,Children (3 months - 6 years old),Both,Normal
+1302,Taurine,HMDB0000251,Oct-97,Children (3 months - 6 years old),Both,Normal
 1303,Taurine,HMDB0000251,0-240,Children (6 - 18 years old),Both,Normal
 1304,Sphingosine,HMDB0000252,0.050 +/- 0.0013,Adult (>18 years old),Both,Normal
 1305,Pregnenolone,HMDB0000253,0.00474-0.0632,Newborn (0-30 days old),Female,Normal
@@ -1448,9 +1448,9 @@
 1446,Vitamin A,HMDB0000305,1.02 (0.34-2.1),Adolescent (13-18 years old),Both,Normal
 1447,Vitamin A,HMDB0000305,0.530-2.100,Adult (>18 years old),Not Specified,Normal
 1448,Vitamin A,HMDB0000305,0-2,Infant (0-1 year old),Both,Normal
-1449,Vitamin A,HMDB0000305,1-2,Children (1-13 years old),Both,Normal
-1450,Vitamin A,HMDB0000305,1-2,Adolescent (13-18 years old),Both,Normal
-1451,Vitamin A,HMDB0000305,1-2,Adult (>18 years old),Both,Normal
+1449,Vitamin A,HMDB0000305,2-Jan,Children (1-13 years old),Both,Normal
+1450,Vitamin A,HMDB0000305,2-Jan,Adolescent (13-18 years old),Both,Normal
+1451,Vitamin A,HMDB0000305,2-Jan,Adult (>18 years old),Both,Normal
 1452,Vitamin A,HMDB0000305,2.3 (1.2-3.5),Adult (>18 years old),Female,Normal
 1453,Vitamin A,HMDB0000305,2.0600 +/- 0.620,Adult (>18 years old),Both,Normal
 1454,Vitamin A,HMDB0000305,2.220 +/- 0.590,Adult (>18 years old),Both,Normal
@@ -1768,7 +1768,7 @@
 1766,Capric acid,HMDB0000511,11.0 (5.0-17.0),Adult (>18 years old),Both,Normal
 1767,Capric acid,HMDB0000511,,Adult (>18 years old),Female,Normal
 1768,L-Arginine,HMDB0000517,129.5 +/- 30,Adult (>18 years old),Both,Normal
-1769,L-Arginine,HMDB0000517,10-66,Children (1-13 years old),Both,Normal
+1769,L-Arginine,HMDB0000517,Oct-66,Children (1-13 years old),Both,Normal
 1770,L-Arginine,HMDB0000517,101 (72.5-112),Adult (>18 years old),Both,Normal
 1771,L-Arginine,HMDB0000517,14-140,Children (1 - 13 years old),Both,Normal
 1772,L-Arginine,HMDB0000517,6-140,Children (1 - 13 years old),Both,Normal
@@ -2236,7 +2236,7 @@
 2234,Copper,HMDB0000657,17.2 (12.7 - 21.6),Adult (>18 years old),Male,Normal
 2235,Copper,HMDB0000657,37.6 (23.6 - 49.9),Adult (>18 years old),Female,Normal
 2236,Copper,HMDB0000657,11.8 (7.5 - 16.1),Adult (>18 years old),Female,Normal
-2237,Copper,HMDB0000657,12-22,Adult (>18 years old),Both,Normal
+2237,Copper,HMDB0000657,22-Dec,Adult (>18 years old),Both,Normal
 2238,Copper,HMDB0000657,18.9,Adult (>18 years old),Female,Normal
 2239,Copper,HMDB0000657,17.2,Adult (>18 years old),Male,Normal
 2240,Copper,HMDB0000657,12.7-22.0,Children (1-13 years old),Not Specified,Normal
@@ -2366,10 +2366,10 @@
 2364,L-Methionine,HMDB0000696,25.0 (21.0-29.0),Adult (>18 years old),Both,Normal
 2365,L-Methionine,HMDB0000696,33.4 +/- 9,Adult (>18 years old),Both,Normal
 2366,L-Methionine,HMDB0000696,13-45,Adult (>18 years old),Not Specified,Normal
-2367,L-Methionine,HMDB0000696,6-36,Newborn (0-30 days old),Both,Normal
-2368,L-Methionine,HMDB0000696,4-39,Infant (1 - 3 months old),Both,Normal
+2367,L-Methionine,HMDB0000696,Jun-36,Newborn (0-30 days old),Both,Normal
+2368,L-Methionine,HMDB0000696,Apr-39,Infant (1 - 3 months old),Both,Normal
 2369,L-Methionine,HMDB0000696,35.0 +/- 5.0,Newborn (0-30 days old),Not Specified,Normal
-2370,L-Methionine,HMDB0000696,5-40,Children (3 months - 6 years old),Both,Normal
+2370,L-Methionine,HMDB0000696,May-40,Children (3 months - 6 years old),Both,Normal
 2371,L-Methionine,HMDB0000696,27.0 +/- 5.0,Children (1-13 years old),Male,Normal
 2372,L-Methionine,HMDB0000696,16-37,Children (6 - 18 years old),Both,Normal
 2373,L-Methionine,HMDB0000696,32.0 +/- 6.0,Adult (>18 years old),Male,Normal
@@ -2378,9 +2378,9 @@
 2376,L-Methionine,HMDB0000696,15-35,Not Specified,Not Specified,Normal
 2377,L-Methionine,HMDB0000696,35.8 (28.90-44.2),Newborn (0-30 days old),,Normal
 2378,L-Methionine,HMDB0000696,<77,Children (1 - 13 years old),Male,Normal
-2379,L-Methionine,HMDB0000696,10-60,Infant (0-1 year old),Not Specified,Normal
-2380,L-Methionine,HMDB0000696,6-27,Adult (>18 years old),Both,Normal
-2381,L-Methionine,HMDB0000696,7 -47,Children (1 - 13 years old),Male,Normal
+2379,L-Methionine,HMDB0000696,Oct-60,Infant (0-1 year old),Not Specified,Normal
+2380,L-Methionine,HMDB0000696,27-Jun,Adult (>18 years old),Both,Normal
+2381,L-Methionine,HMDB0000696,Jul-47,Children (1 - 13 years old),Male,Normal
 2382,L-Methionine,HMDB0000696,28.90 (21.60-37.6),Infant (0-1 year old),,Normal
 2383,L-Methionine,HMDB0000696,25 +/- 6,Adult (>18 years old),Male,Normal
 2384,L-Methionine,HMDB0000696,22 +/- 4,Adult (>18 years old),Female,Normal
@@ -2391,14 +2391,14 @@
 2389,L-Methionine,HMDB0000696,16 +/- 3,Children (1 - 13 years old),Not Specified,Normal
 2390,L-Methionine,HMDB0000696,13-32,Newborn (0-30 days old),Not Specified,Normal
 2391,L-Methionine,HMDB0000696,0-90,Children (1-13 years old),Not Specified,Normal
-2392,L-Methionine,HMDB0000696,5-34,Infant (0-1 year old),Both,Normal
+2392,L-Methionine,HMDB0000696,May-34,Infant (0-1 year old),Both,Normal
 2393,L-Methionine,HMDB0000696,16-37,Children (1-13 years old),Both,Normal
 2394,L-Methionine,HMDB0000696,35.09 +/- 8.76,Children (1-13 years old),Both,Normal
 2395,L-Methionine,HMDB0000696,10.0-45.0,Adult (>18 years old),Both,Normal
 2396,L-Methionine,HMDB0000696,29.8 +/- 6.3,Adult (>18 years old),Both,Normal
 2397,Lithocholic acid glycine conjugate,HMDB0000698,0.009 (0.005-0.015),Adult (>18 years old),Not Specified,Normal
 2398,1-Methylnicotinamide,HMDB0000699,0.430 (0.007-0.850),Adult (>18 years old),Both,Normal
-2399,Hydroxypropionic acid,HMDB0000700,6-8,Adolescent (13-18 years old),Female,Normal
+2399,Hydroxypropionic acid,HMDB0000700,8-Jun,Adolescent (13-18 years old),Female,Normal
 2400,Hydroxypropionic acid,HMDB0000700,3,Adult (>18 years old),Female,Normal
 2401,Hydroxypropionic acid,HMDB0000700,2.3 (0.0-4.0),Adult (>18 years old),Both,Normal
 2402,Hexanoylglycine,HMDB0000701,,,,Normal
@@ -2452,7 +2452,7 @@
 2450,Lactulose,HMDB0000740,0.12 (0.12-0.13),Adult (>18 years old),Both,Normal
 2451,Homocysteine,HMDB0000742,9.4 (7.3-16.2),Adult (>18 years old),Not Specified,Normal
 2452,Homocysteine,HMDB0000742,9.8 (7.6-14.9),Adult (>18 years old),Both,Normal
-2453,Homocysteine,HMDB0000742,1-18,Infant (0-1 year old),Both,Normal
+2453,Homocysteine,HMDB0000742,18-Jan,Infant (0-1 year old),Both,Normal
 2454,Homocysteine,HMDB0000742,<7.500,Not Specified,Not Specified,Normal
 2455,Homocysteine,HMDB0000742,2.89-9.99,Infant (5 days - <1 year old),Both,Normal
 2456,Homocysteine,HMDB0000742,2.74-7.62,Children (1 - <7 years old),Both,Normal
@@ -2466,9 +2466,9 @@
 2464,Homocysteine,HMDB0000742,9.00 +/- 2.2,Adolescent (13-18 years old),Both,Normal
 2465,Homocysteine,HMDB0000742,9.00 +/- 2.00,Adult (>18 years old),Both,Normal
 2466,Homocysteine,HMDB0000742,<20,Adult (>18 years old),Both,Normal
-2467,Homocysteine,HMDB0000742,3-8,Newborn (0-30 days old),Both,Normal
+2467,Homocysteine,HMDB0000742,8-Mar,Newborn (0-30 days old),Both,Normal
 2468,Homocysteine,HMDB0000742,9.99 +/- 1.04,Adult (>18 years old),Both,Normal
-2469,Homocysteine,HMDB0000742,8-18,Adult (>18 years old),Not Specified,Normal
+2469,Homocysteine,HMDB0000742,18-Aug,Adult (>18 years old),Not Specified,Normal
 2470,Homocysteine,HMDB0000742,<12.593,Adult (>18 years old),Both,Normal
 2471,Homocysteine,HMDB0000742,10.900 +/- 2.800,Adult (>18 years old),Both,Normal
 2472,Homocysteine,HMDB0000742,11.600 +/- 3,Adult (>18 years old),Both,Normal
@@ -2476,7 +2476,7 @@
 2474,Homocysteine,HMDB0000742,13.300 +/- 2.900,Adult (>18 years old),Both,Normal
 2475,Homocysteine,HMDB0000742,5.600 +/- 1.200,Adult (>18 years old),Female,Normal
 2476,Homocysteine,HMDB0000742,9.11 +/- 2.99,Adult (>18 years old),Not Specified,Normal
-2477,Homocysteine,HMDB0000742,4-12,Children (1-13 years old),Not Specified,Normal
+2477,Homocysteine,HMDB0000742,12-Apr,Children (1-13 years old),Not Specified,Normal
 2478,Hydroxyisocaproic acid,HMDB0000746,<0.7,Newborn (0-30 days old),Not Specified,Normal
 2479,L-Xylulose,HMDB0000751,9.0 +/- 12.0,Adult (>18 years old),Both,Normal
 2480,Methylglutaric acid,HMDB0000752,,,,Normal
@@ -2686,18 +2686,18 @@
 2684,Ergocalciferol,HMDB0000900,0.0025 (0.0008-0.0042),Adult (>18 years old),Male,Normal
 2685,Valproic acid glucuronide,HMDB0000901,,,,Normal
 2686,NAD,HMDB0000902,24.3 (23.0-25.6),Adult (>18 years old),Both,Normal
-2687,Citrulline,HMDB0000904,10-60,Infant (0-1 year old),Not Specified,Normal
-2688,Citrulline,HMDB0000904,6-40,Newborn (0-30 days old),Both,Normal
-2689,Citrulline,HMDB0000904,6-60,Infant (1 - 3 months old),Both,Normal
-2690,Citrulline,HMDB0000904,8-70,Children (3 months - 6 years old),Both,Normal
-2691,Citrulline,HMDB0000904,10-70,Children (6 - 18 years old),Both,Normal
+2687,Citrulline,HMDB0000904,Oct-60,Infant (0-1 year old),Not Specified,Normal
+2688,Citrulline,HMDB0000904,Jun-40,Newborn (0-30 days old),Both,Normal
+2689,Citrulline,HMDB0000904,Jun-60,Infant (1 - 3 months old),Both,Normal
+2690,Citrulline,HMDB0000904,Aug-70,Children (3 months - 6 years old),Both,Normal
+2691,Citrulline,HMDB0000904,Oct-70,Children (6 - 18 years old),Both,Normal
 2692,Citrulline,HMDB0000904,19-51,Infant (0-1 year old),Male,Normal
 2693,Citrulline,HMDB0000904,38.0 (30.0-46.0),Adult (>18 years old),Both,Normal
 2694,Citrulline,HMDB0000904,19-33,Infant (0-1 year old),Not Specified,Normal
 2695,Citrulline,HMDB0000904,<43,Adult (>18 years old),Both,Normal
-2696,Citrulline,HMDB0000904,8-47,Newborn (0-30 days old),Not Specified,Normal
-2697,Citrulline,HMDB0000904,10-45,Infant (0-1 year old),Not Specified,Normal
-2698,Citrulline,HMDB0000904,10-50,Children (1 - 13 years old),Both,Normal
+2696,Citrulline,HMDB0000904,Aug-47,Newborn (0-30 days old),Not Specified,Normal
+2697,Citrulline,HMDB0000904,Oct-45,Infant (0-1 year old),Not Specified,Normal
+2698,Citrulline,HMDB0000904,Oct-50,Children (1 - 13 years old),Both,Normal
 2699,Citrulline,HMDB0000904,16 +/- 5,Infant (0-1 year old),Both,Normal
 2700,Citrulline,HMDB0000904,29.8 +/- 7.91,Adult (>18 years old),Both,Normal
 2701,Citrulline,HMDB0000904,35 +/- 10,Adult (>18 years old),Female,Normal
@@ -2710,8 +2710,8 @@
 2708,Citrulline,HMDB0000904,38.0 (30.0-46.0),Adult (>18 years old),Not Specified,Normal
 2709,Citrulline,HMDB0000904,15.0-45.0,Adult (>18 years old),Both,Normal
 2710,Citrulline,HMDB0000904,26,Children (1-13 years old),Not Specified,Normal
-2711,Citrulline,HMDB0000904,5-37,Newborn (0-30 days old),Not Specified,Normal
-2712,Citrulline,HMDB0000904,10-60,Children (1-13 years old),Not Specified,Normal
+2711,Citrulline,HMDB0000904,May-37,Newborn (0-30 days old),Not Specified,Normal
+2712,Citrulline,HMDB0000904,Oct-60,Children (1-13 years old),Not Specified,Normal
 2713,Trimethylamine,HMDB0000906,0.42 +/- 0.12,Adult (>18 years old),Both,Normal
 2714,Trimethylamine,HMDB0000906,26.55(7.07),Adult (>18 years old),Both,Normal
 2715,Sulfolithocholic acid,HMDB0000907,1.6 +/- 0.1,Adult (>18 years old),Both,Normal
@@ -3136,7 +3136,7 @@
 3134,Pyridoxal 5'-phosphate,HMDB0001491,0.0572 +/- 0.0193,Adolescent (13-18 years old),Female,Normal
 3135,Pyridoxal 5'-phosphate,HMDB0001491,0.0581 +/- 0.0176,Adolescent (13-18 years old),Male,Normal
 3136,Pyridoxal 5'-phosphate,HMDB0001491,0.205 +/- 0.193,Adult (>18 years old),Male,Normal
-3137,Pyridoxal 5'-phosphate,HMDB0001491,0.030,Adult (>18 years old),Female,Normal
+3137,Pyridoxal 5'-phosphate,HMDB0001491,0.03,Adult (>18 years old),Female,Normal
 3138,Pyridoxal 5'-phosphate,HMDB0001491,0.061 +/- 0.052,Children (1-13 years old),Both,Normal
 3139,Pyridoxal 5'-phosphate,HMDB0001491,0.056 +/- 0.042,Newborn (0-30 days old),Both,Normal
 3140,Pyridoxal 5'-phosphate,HMDB0001491,0.068 +/- 0.015,Adult (>18 years old),Female,Normal
@@ -3795,7 +3795,7 @@
 3793,Arachidic acid,HMDB0002212,9.599 +/- 6.399,Adult (>18 years old),Male,Normal
 3794,Arachidic acid,HMDB0002212,9.599 +/- 3.200,Adult (>18 years old),Male,Normal
 3795,Arachidic acid,HMDB0002212,6.399 +/- 3.200,Adult (>18 years old),Male,Normal
-3796,Arachidic acid,HMDB0002212,3.200,Adult (>18 years old),Male,Normal
+3796,Arachidic acid,HMDB0002212,3.2,Adult (>18 years old),Male,Normal
 3797,Arachidic acid,HMDB0002212,11.743 +/- 6.655,Adult (>18 years old),Female,Normal
 3798,Arachidic acid,HMDB0002212,0.238 +/- 0.002,Adult (>18 years old),Both,Normal
 3799,4a-Carbinolamine tetrahydrobiopterin,HMDB0002215,4.18 +/- 0.04,Adult (>18 years old),Male,Normal
@@ -7995,7 +7995,7 @@
 7993,"5,15-DiHETE",HMDB0010216,0.000247 +/- 0.0000200 ,Adult (>18 years old),Not Specified,Normal
 7994,5-KETE,HMDB0010217,0.000136 +/- 0.000018,Adult (>18 years old),Both,Normal
 7995,5-KETE,HMDB0010217,0.000145 +/- 0.00012,Adult (>18 years old),Both,Normal
-7996,5-KETE,HMDB0010217,0.000136 +/- 0.000018 ),Adult (>18 years old),Not Specified,Normal
+7996,5-KETE,HMDB0010217,0.000136 +/- 0.000018,Adult (>18 years old),Not Specified,Normal
 7997,"8,15-DiHETE",HMDB0010219,<0.0001,Adult (>18 years old),Both,Normal
 7998,"8,15-DiHETE",HMDB0010219,<0.0001,Adult (>18 years old),Both,Normal
 7999,9(10)-EpODE,HMDB0010220,0.00208 +/- 0.000075 ,Adult (>18 years old),Not Specified,Normal
@@ -8344,7 +8344,7 @@
 8342,"PG(18:3(6Z,9Z,12Z)/22:4(7Z,10Z,13Z,16Z))",HMDB0010671,0.181 +/- 0.024,Adult (>18 years old),Both,Normal
 8343,"PG(18:3(6Z,9Z,12Z)/22:5(4Z,7Z,10Z,13Z,16Z))",HMDB0010672,0.105 +/- 0.018,Adult (>18 years old),Both,Normal
 8344,"PG(18:3(6Z,9Z,12Z)/22:5(7Z,10Z,13Z,16Z,19Z))",HMDB0010673,0.105 +/- 0.018,Adult (>18 years old),Both,Normal
-8345,"PG(18:3(6Z,9Z,12Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",HMDB0010674,0.116 +/- 0.019		,Adult (>18 years old),Both,Normal
+8345,"PG(18:3(6Z,9Z,12Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",HMDB0010674,"0.116 +/- 0.019		",Adult (>18 years old),Both,Normal
 8346,"PG(18:3(9Z,12Z,15Z)/18:0)",HMDB0010677,0.338 +/- 0.052,Adult (>18 years old),Both,Normal
 8347,"PG(18:3(9Z,12Z,15Z)/18:1(11Z))",HMDB0010678,0.217 +/- 0.036,Adult (>18 years old),Both,Normal
 8348,"PG(18:3(9Z,12Z,15Z)/18:1(9Z))",HMDB0010679,0.217 +/- 0.036,Adult (>18 years old),Both,Normal
@@ -8354,7 +8354,7 @@
 8352,"PG(18:3(9Z,12Z,15Z)/22:4(7Z,10Z,13Z,16Z))",HMDB0010686,0.181 +/- 0.024,Adult (>18 years old),Both,Normal
 8353,"PG(18:3(9Z,12Z,15Z)/22:5(4Z,7Z,10Z,13Z,16Z))",HMDB0010687,0.105 +/- 0.018,Adult (>18 years old),Both,Normal
 8354,"PG(18:3(9Z,12Z,15Z)/22:5(7Z,10Z,13Z,16Z,19Z))",HMDB0010688,0.105 +/- 0.018,Adult (>18 years old),Both,Normal
-8355,"PG(18:3(9Z,12Z,15Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",HMDB0010689,0.116 +/- 0.019		,Adult (>18 years old),Both,Normal
+8355,"PG(18:3(9Z,12Z,15Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",HMDB0010689,"0.116 +/- 0.019		",Adult (>18 years old),Both,Normal
 8356,1-Methylxanthine,HMDB0010738,,,,Normal
 8357,1-Methylxanthine,HMDB0010738,,Adult (>18 years old),Both,Normal
 8358,1-Methylxanthine,HMDB0010738,,Adult (>18 years old),Both,Normal
@@ -9336,7 +9336,7 @@
 9334,SM(d18:0/24:1(15Z)(OH)),HMDB0013469,0.70-3.60,Adult (>18 years old),Both,Normal
 9335,SM(d18:0/24:1(15Z)(OH)),HMDB0013469,1.1 (0.84-1.41),Infant (0-1 year old),,Normal
 9336,SM(d18:0/24:1(15Z)(OH)),HMDB0013469,57.1 +/- 11.7,Adult (>18 years old),Both,Normal
-9337,LPS with O-antigen,HMDB0013470,0.0000014 ,Adult (>18 years old),Both,Normal
+9337,LPS with O-antigen,HMDB0013470,0.0000014,Adult (>18 years old),Both,Normal
 9338,LPS with O-antigen,HMDB0013470,0.0000027,Adult (>18 years old),Both,Normal
 9339,LPS with O-antigen,HMDB0013470,0.0000096,Adult (>18 years old),Both,Normal
 9340,LPS core,HMDB0013471,0.000014,Adult (>18 years old),Both,Normal
@@ -10728,7 +10728,7 @@
 10726,Ticagrelor,HMDB0015702,,,,Taking drug identified by DrugBank entry DB08816
 10727,Tafluprost,HMDB0015704,,,,Taking drug identified by DrugBank entry DB08819
 10728,Ivacaftor,HMDB0015705,,,,Taking drug identified by DrugBank entry DB08820
-10729,N-gamma-Glutamylglutamine,HMDB0029147,3-8,Adult (>18 years old),Not Specified,Normal
+10729,N-gamma-Glutamylglutamine,HMDB0029147,8-Mar,Adult (>18 years old),Not Specified,Normal
 10730,gamma-Glutamylthreonine,HMDB0029159,,Adult (>18 years old),Both,Normal
 10731,(-)-epicatechin-3'-O-glucuronide,HMDB0029164,,,,Normal
 10732,3'-O-methyl-(-)-epicatechin,HMDB0029175,,,,Consuming polyphenols described by Phenol-Explorer entry 766
