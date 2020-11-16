@@ -1,0 +1,610 @@
+,HMDB,Disease,Meta_id
+0,HMDB0000182,Lysinuric protein intolerance,1954
+1,HMDB0000182,Lysinuric protein intolerance,1955
+2,HMDB0000182,Lysinuric protein intolerance,25
+3,HMDB0000182,Lysinuric protein intolerance,41
+4,HMDB0000182,Lysinuric protein intolerance,42
+5,HMDB0000182,Pyruvate carboxylase deficiency,1954
+6,HMDB0000182,Pyruvate carboxylase deficiency,1955
+7,HMDB0000182,Pyruvate carboxylase deficiency,25
+8,HMDB0000182,Pyruvate carboxylase deficiency,41
+9,HMDB0000182,Pyruvate carboxylase deficiency,42
+10,HMDB0000182,L-2-Hydroxyglutaric aciduria,1954
+11,HMDB0000182,L-2-Hydroxyglutaric aciduria,1955
+12,HMDB0000182,L-2-Hydroxyglutaric aciduria,25
+13,HMDB0000182,L-2-Hydroxyglutaric aciduria,41
+14,HMDB0000182,L-2-Hydroxyglutaric aciduria,42
+15,HMDB0000182,Hyperdibasic aminoaciduria I,1954
+16,HMDB0000182,Hyperdibasic aminoaciduria I,1955
+17,HMDB0000182,Hyperdibasic aminoaciduria I,25
+18,HMDB0000182,Hyperdibasic aminoaciduria I,41
+19,HMDB0000182,Hyperdibasic aminoaciduria I,42
+25,HMDB0000182,Cystinuria,1954
+26,HMDB0000182,Cystinuria,1955
+27,HMDB0000182,Cystinuria,25
+28,HMDB0000182,Cystinuria,41
+29,HMDB0000182,Cystinuria,42
+40,HMDB0000182,"2,4-dienoyl-CoA reductase deficiency",1954
+41,HMDB0000182,"2,4-dienoyl-CoA reductase deficiency",1955
+42,HMDB0000182,"2,4-dienoyl-CoA reductase deficiency",25
+43,HMDB0000182,"2,4-dienoyl-CoA reductase deficiency",41
+44,HMDB0000182,"2,4-dienoyl-CoA reductase deficiency",42
+45,HMDB0000182,Hyperlysinuria,1954
+46,HMDB0000182,Hyperlysinuria,1955
+47,HMDB0000182,Hyperlysinuria,25
+48,HMDB0000182,Hyperlysinuria,41
+49,HMDB0000182,Hyperlysinuria,42
+50,HMDB0000182,"Hyperlysinemia I, familial",1954
+51,HMDB0000182,"Hyperlysinemia I, familial",1955
+52,HMDB0000182,"Hyperlysinemia I, familial",25
+53,HMDB0000182,"Hyperlysinemia I, familial",41
+54,HMDB0000182,"Hyperlysinemia I, familial",42
+55,HMDB0000062,3-Hydroxyacyl-CoA dehydrogenase deficiency,1214
+56,HMDB0000062,3-Hydroxyacyl-CoA dehydrogenase deficiency,1215
+57,HMDB0000062,3-Hydroxyacyl-CoA dehydrogenase deficiency,59
+58,HMDB0000062,3-Hydroxyacyl-CoA dehydrogenase deficiency,268
+59,HMDB0000062,3-Hydroxyacyl-CoA dehydrogenase deficiency,1090
+60,HMDB0000062,3-Hydroxyacyl-CoA dehydrogenase deficiency,1163
+61,HMDB0000062,3-Hydroxyacyl-CoA dehydrogenase deficiency,1213
+62,HMDB0000062,3-Hydroxyacyl-CoA dehydrogenase deficiency,1141
+63,HMDB0000062,3-Hydroxyacyl-CoA dehydrogenase deficiency,1142
+64,HMDB0000062,3-Hydroxyacyl-CoA dehydrogenase deficiency,1143
+65,HMDB0000062,3-Hydroxyacyl-CoA dehydrogenase deficiency,267
+66,HMDB0000062,3-Hydroxyacyl-CoA dehydrogenase deficiency,1089
+67,HMDB0000062,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,1214
+68,HMDB0000062,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,1215
+69,HMDB0000062,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,59
+70,HMDB0000062,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,268
+71,HMDB0000062,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,1090
+72,HMDB0000062,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,1163
+73,HMDB0000062,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,1213
+74,HMDB0000062,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,1141
+75,HMDB0000062,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,1142
+76,HMDB0000062,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,1143
+77,HMDB0000062,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,267
+78,HMDB0000062,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,1089
+79,HMDB0000062,"2,4-dienoyl-CoA reductase deficiency",1214
+80,HMDB0000062,"2,4-dienoyl-CoA reductase deficiency",1215
+81,HMDB0000062,"2,4-dienoyl-CoA reductase deficiency",59
+82,HMDB0000062,"2,4-dienoyl-CoA reductase deficiency",268
+83,HMDB0000062,"2,4-dienoyl-CoA reductase deficiency",1090
+84,HMDB0000062,"2,4-dienoyl-CoA reductase deficiency",1163
+85,HMDB0000062,"2,4-dienoyl-CoA reductase deficiency",1213
+86,HMDB0000062,"2,4-dienoyl-CoA reductase deficiency",1141
+87,HMDB0000062,"2,4-dienoyl-CoA reductase deficiency",1142
+88,HMDB0000062,"2,4-dienoyl-CoA reductase deficiency",1143
+89,HMDB0000062,"2,4-dienoyl-CoA reductase deficiency",267
+90,HMDB0000062,"2,4-dienoyl-CoA reductase deficiency",1089
+91,HMDB0000062,Mitochondrial trifunctional protein deficiency,1214
+92,HMDB0000062,Mitochondrial trifunctional protein deficiency,1215
+93,HMDB0000062,Mitochondrial trifunctional protein deficiency,59
+94,HMDB0000062,Mitochondrial trifunctional protein deficiency,268
+95,HMDB0000062,Mitochondrial trifunctional protein deficiency,1090
+96,HMDB0000062,Mitochondrial trifunctional protein deficiency,1163
+97,HMDB0000062,Mitochondrial trifunctional protein deficiency,1213
+98,HMDB0000062,Mitochondrial trifunctional protein deficiency,1141
+99,HMDB0000062,Mitochondrial trifunctional protein deficiency,1142
+100,HMDB0000062,Mitochondrial trifunctional protein deficiency,1143
+101,HMDB0000062,Mitochondrial trifunctional protein deficiency,267
+102,HMDB0000062,Mitochondrial trifunctional protein deficiency,1089
+115,HMDB0000062,Propionic acidemia,1214
+117,HMDB0000062,Propionic acidemia,1215
+119,HMDB0000062,Propionic acidemia,59
+121,HMDB0000062,Propionic acidemia,268
+123,HMDB0000062,Propionic acidemia,1090
+125,HMDB0000062,Propionic acidemia,1163
+127,HMDB0000062,Propionic acidemia,1213
+129,HMDB0000062,Propionic acidemia,1141
+131,HMDB0000062,Propionic acidemia,1142
+133,HMDB0000062,Propionic acidemia,1143
+135,HMDB0000062,Propionic acidemia,267
+137,HMDB0000062,Propionic acidemia,1089
+163,HMDB0001311,D-Lactic Acidosis,330
+164,HMDB0001311,D-Lactic Acidosis,469
+165,HMDB0001311,D-Lactic Acidosis,208
+166,HMDB0001311,D-Lactic Acidosis,211
+167,HMDB0001311,D-Lactic Acidosis,214
+168,HMDB0001311,D-Lactic Acidosis,206
+169,HMDB0001311,D-Lactic Acidosis,209
+170,HMDB0001311,D-Lactic Acidosis,212
+171,HMDB0001311,D-Lactic Acidosis,202
+172,HMDB0001311,D-Lactic Acidosis,210
+173,HMDB0001311,D-Lactic Acidosis,213
+174,HMDB0001311,D-Lactic Acidosis,1137
+175,HMDB0001311,D-Lactic Acidosis,1136
+176,HMDB0001311,D-Lactic Acidosis,203
+177,HMDB0001311,D-Lactic Acidosis,204
+178,HMDB0001311,D-Lactic Acidosis,207
+179,HMDB0000716,Adrenoleukodystrophy,428
+181,HMDB0000716,Adrenoleukodystrophy,429
+183,HMDB0000716,Adrenoleukodystrophy,430
+185,HMDB0000716,Adrenoleukodystrophy,431
+191,HMDB0000510,2-Ketoadipic acidemia,1504
+192,HMDB0000510,2-Ketoadipic acidemia,1313
+193,HMDB0000112,Hyper beta-alaninemia,162
+194,HMDB0000254,Canavan disease,356
+195,HMDB0000254,D-2-hydroxyglutaric aciduria,356
+196,HMDB0000254,Malonyl-Coa decarboxylase deficiency,356
+197,HMDB0000254,Fumarase deficiency,356
+198,HMDB0000254,2-Ketoglutarate dehydrogenase complex deficiency,356
+199,HMDB0000134,Fumarase deficiency,359
+200,HMDB0000134,2-Ketoglutarate dehydrogenase complex deficiency,359
+201,HMDB0000156,2-Ketoglutarate dehydrogenase complex deficiency,332
+202,HMDB0000094,Canavan disease,385
+203,HMDB0000094,2-Ketoglutarate dehydrogenase complex deficiency,385
+204,HMDB0000374,21-Hydroxylase deficiency,446
+206,HMDB0000374,21-Hydroxylase deficiency,751
+208,HMDB0000374,Antley-Bixler syndrome with genital anomalies and disordered steroidogenesis,446
+209,HMDB0000374,Antley-Bixler syndrome with genital anomalies and disordered steroidogenesis,751
+210,HMDB0000754,Biotinidase deficiency,397
+212,HMDB0000754,3-Methyl-crotonyl-glycinuria,397
+213,HMDB0000754,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,397
+214,HMDB0000051,Short bowel syndrome,1992
+215,HMDB0000051,Short bowel syndrome,9
+216,HMDB0000051,Short bowel syndrome,1092
+217,HMDB0000051,Short bowel syndrome,37
+218,HMDB0000051,Short bowel syndrome,278
+219,HMDB0000051,Short bowel syndrome,277
+220,HMDB0000051,Short bowel syndrome,276
+221,HMDB0000051,Short bowel syndrome,275
+222,HMDB0000051,Short bowel syndrome,274
+223,HMDB0000051,Short bowel syndrome,273
+224,HMDB0000051,Short bowel syndrome,279
+225,HMDB0000051,3-Methyl-crotonyl-glycinuria,1992
+226,HMDB0000051,3-Methyl-crotonyl-glycinuria,9
+227,HMDB0000051,3-Methyl-crotonyl-glycinuria,1092
+228,HMDB0000051,3-Methyl-crotonyl-glycinuria,37
+229,HMDB0000051,3-Methyl-crotonyl-glycinuria,278
+230,HMDB0000051,3-Methyl-crotonyl-glycinuria,277
+231,HMDB0000051,3-Methyl-crotonyl-glycinuria,276
+232,HMDB0000051,3-Methyl-crotonyl-glycinuria,275
+233,HMDB0000051,3-Methyl-crotonyl-glycinuria,274
+234,HMDB0000051,3-Methyl-crotonyl-glycinuria,273
+235,HMDB0000051,3-Methyl-crotonyl-glycinuria,279
+236,HMDB0000051,Argininosuccinic aciduria,1992
+237,HMDB0000051,Argininosuccinic aciduria,9
+238,HMDB0000051,Argininosuccinic aciduria,1092
+239,HMDB0000051,Argininosuccinic aciduria,37
+240,HMDB0000051,Argininosuccinic aciduria,278
+241,HMDB0000051,Argininosuccinic aciduria,277
+242,HMDB0000051,Argininosuccinic aciduria,276
+243,HMDB0000051,Argininosuccinic aciduria,275
+244,HMDB0000051,Argininosuccinic aciduria,274
+245,HMDB0000051,Argininosuccinic aciduria,273
+246,HMDB0000051,Argininosuccinic aciduria,279
+247,HMDB0000051,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,1992
+248,HMDB0000051,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,9
+249,HMDB0000051,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,1092
+250,HMDB0000051,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,37
+251,HMDB0000051,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,278
+252,HMDB0000051,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,277
+253,HMDB0000051,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,276
+254,HMDB0000051,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,275
+255,HMDB0000051,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,274
+256,HMDB0000051,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,273
+257,HMDB0000051,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,279
+258,HMDB0000051,Fumarase deficiency,1992
+259,HMDB0000051,Fumarase deficiency,9
+260,HMDB0000051,Fumarase deficiency,1092
+261,HMDB0000051,Fumarase deficiency,37
+262,HMDB0000051,Fumarase deficiency,278
+263,HMDB0000051,Fumarase deficiency,277
+264,HMDB0000051,Fumarase deficiency,276
+265,HMDB0000051,Fumarase deficiency,275
+266,HMDB0000051,Fumarase deficiency,274
+267,HMDB0000051,Fumarase deficiency,273
+268,HMDB0000051,Fumarase deficiency,279
+269,HMDB0000051,N-acetylglutamate synthetase deficiency,1992
+271,HMDB0000051,N-acetylglutamate synthetase deficiency,9
+273,HMDB0000051,N-acetylglutamate synthetase deficiency,1092
+275,HMDB0000051,N-acetylglutamate synthetase deficiency,37
+277,HMDB0000051,N-acetylglutamate synthetase deficiency,278
+279,HMDB0000051,N-acetylglutamate synthetase deficiency,277
+281,HMDB0000051,N-acetylglutamate synthetase deficiency,276
+283,HMDB0000051,N-acetylglutamate synthetase deficiency,275
+285,HMDB0000051,N-acetylglutamate synthetase deficiency,274
+287,HMDB0000051,N-acetylglutamate synthetase deficiency,273
+289,HMDB0000051,N-acetylglutamate synthetase deficiency,279
+291,HMDB0000051,Citrullinemia type I,1992
+292,HMDB0000051,Citrullinemia type I,9
+293,HMDB0000051,Citrullinemia type I,1092
+294,HMDB0000051,Citrullinemia type I,37
+295,HMDB0000051,Citrullinemia type I,278
+296,HMDB0000051,Citrullinemia type I,277
+297,HMDB0000051,Citrullinemia type I,276
+298,HMDB0000051,Citrullinemia type I,275
+299,HMDB0000051,Citrullinemia type I,274
+300,HMDB0000051,Citrullinemia type I,273
+301,HMDB0000051,Citrullinemia type I,279
+313,HMDB0000051,"Citrullinemia type II, adult-onset",1992
+314,HMDB0000051,"Citrullinemia type II, adult-onset",9
+315,HMDB0000051,"Citrullinemia type II, adult-onset",1092
+316,HMDB0000051,"Citrullinemia type II, adult-onset",37
+317,HMDB0000051,"Citrullinemia type II, adult-onset",278
+318,HMDB0000051,"Citrullinemia type II, adult-onset",277
+319,HMDB0000051,"Citrullinemia type II, adult-onset",276
+320,HMDB0000051,"Citrullinemia type II, adult-onset",275
+321,HMDB0000051,"Citrullinemia type II, adult-onset",274
+322,HMDB0000051,"Citrullinemia type II, adult-onset",273
+323,HMDB0000051,"Citrullinemia type II, adult-onset",279
+324,HMDB0000051,3-Hydroxyacyl-CoA dehydrogenase deficiency,1992
+325,HMDB0000051,3-Hydroxyacyl-CoA dehydrogenase deficiency,9
+326,HMDB0000051,3-Hydroxyacyl-CoA dehydrogenase deficiency,1092
+327,HMDB0000051,3-Hydroxyacyl-CoA dehydrogenase deficiency,37
+328,HMDB0000051,3-Hydroxyacyl-CoA dehydrogenase deficiency,278
+329,HMDB0000051,3-Hydroxyacyl-CoA dehydrogenase deficiency,277
+330,HMDB0000051,3-Hydroxyacyl-CoA dehydrogenase deficiency,276
+331,HMDB0000051,3-Hydroxyacyl-CoA dehydrogenase deficiency,275
+332,HMDB0000051,3-Hydroxyacyl-CoA dehydrogenase deficiency,274
+333,HMDB0000051,3-Hydroxyacyl-CoA dehydrogenase deficiency,273
+334,HMDB0000051,3-Hydroxyacyl-CoA dehydrogenase deficiency,279
+346,HMDB0000051,Hyperdibasic aminoaciduria I,1992
+347,HMDB0000051,Hyperdibasic aminoaciduria I,9
+348,HMDB0000051,Hyperdibasic aminoaciduria I,1092
+349,HMDB0000051,Hyperdibasic aminoaciduria I,37
+350,HMDB0000051,Hyperdibasic aminoaciduria I,278
+351,HMDB0000051,Hyperdibasic aminoaciduria I,277
+352,HMDB0000051,Hyperdibasic aminoaciduria I,276
+353,HMDB0000051,Hyperdibasic aminoaciduria I,275
+354,HMDB0000051,Hyperdibasic aminoaciduria I,274
+355,HMDB0000051,Hyperdibasic aminoaciduria I,273
+356,HMDB0000051,Hyperdibasic aminoaciduria I,279
+357,HMDB0000051,"Cutis laxa, autosomal recessive, type IIIA",1992
+358,HMDB0000051,"Cutis laxa, autosomal recessive, type IIIA",9
+359,HMDB0000051,"Cutis laxa, autosomal recessive, type IIIA",1092
+360,HMDB0000051,"Cutis laxa, autosomal recessive, type IIIA",37
+361,HMDB0000051,"Cutis laxa, autosomal recessive, type IIIA",278
+362,HMDB0000051,"Cutis laxa, autosomal recessive, type IIIA",277
+363,HMDB0000051,"Cutis laxa, autosomal recessive, type IIIA",276
+364,HMDB0000051,"Cutis laxa, autosomal recessive, type IIIA",275
+365,HMDB0000051,"Cutis laxa, autosomal recessive, type IIIA",274
+366,HMDB0000051,"Cutis laxa, autosomal recessive, type IIIA",273
+367,HMDB0000051,"Cutis laxa, autosomal recessive, type IIIA",279
+368,HMDB0000051,"Metabolic encephalomyopathic crises, recurrent, with rhabdomyolysis, cardiac arrhythmias, and neurodegeneration",1992
+369,HMDB0000051,"Metabolic encephalomyopathic crises, recurrent, with rhabdomyolysis, cardiac arrhythmias, and neurodegeneration",9
+370,HMDB0000051,"Metabolic encephalomyopathic crises, recurrent, with rhabdomyolysis, cardiac arrhythmias, and neurodegeneration",1092
+371,HMDB0000051,"Metabolic encephalomyopathic crises, recurrent, with rhabdomyolysis, cardiac arrhythmias, and neurodegeneration",37
+372,HMDB0000051,"Metabolic encephalomyopathic crises, recurrent, with rhabdomyolysis, cardiac arrhythmias, and neurodegeneration",278
+373,HMDB0000051,"Metabolic encephalomyopathic crises, recurrent, with rhabdomyolysis, cardiac arrhythmias, and neurodegeneration",277
+374,HMDB0000051,"Metabolic encephalomyopathic crises, recurrent, with rhabdomyolysis, cardiac arrhythmias, and neurodegeneration",276
+375,HMDB0000051,"Metabolic encephalomyopathic crises, recurrent, with rhabdomyolysis, cardiac arrhythmias, and neurodegeneration",275
+376,HMDB0000051,"Metabolic encephalomyopathic crises, recurrent, with rhabdomyolysis, cardiac arrhythmias, and neurodegeneration",274
+377,HMDB0000051,"Metabolic encephalomyopathic crises, recurrent, with rhabdomyolysis, cardiac arrhythmias, and neurodegeneration",273
+378,HMDB0000051,"Metabolic encephalomyopathic crises, recurrent, with rhabdomyolysis, cardiac arrhythmias, and neurodegeneration",279
+379,HMDB0000051,Mitochondrial trifunctional protein deficiency,1992
+380,HMDB0000051,Mitochondrial trifunctional protein deficiency,9
+381,HMDB0000051,Mitochondrial trifunctional protein deficiency,1092
+382,HMDB0000051,Mitochondrial trifunctional protein deficiency,37
+383,HMDB0000051,Mitochondrial trifunctional protein deficiency,278
+384,HMDB0000051,Mitochondrial trifunctional protein deficiency,277
+385,HMDB0000051,Mitochondrial trifunctional protein deficiency,276
+386,HMDB0000051,Mitochondrial trifunctional protein deficiency,275
+387,HMDB0000051,Mitochondrial trifunctional protein deficiency,274
+388,HMDB0000051,Mitochondrial trifunctional protein deficiency,273
+389,HMDB0000051,Mitochondrial trifunctional protein deficiency,279
+401,HMDB0000051,Pyruvate carboxylase deficiency,1992
+402,HMDB0000051,Pyruvate carboxylase deficiency,9
+403,HMDB0000051,Pyruvate carboxylase deficiency,1092
+404,HMDB0000051,Pyruvate carboxylase deficiency,37
+405,HMDB0000051,Pyruvate carboxylase deficiency,278
+406,HMDB0000051,Pyruvate carboxylase deficiency,277
+407,HMDB0000051,Pyruvate carboxylase deficiency,276
+408,HMDB0000051,Pyruvate carboxylase deficiency,275
+409,HMDB0000051,Pyruvate carboxylase deficiency,274
+410,HMDB0000051,Pyruvate carboxylase deficiency,273
+411,HMDB0000051,Pyruvate carboxylase deficiency,279
+412,HMDB0000051,Infantile Liver Failure Syndrome 2,1992
+414,HMDB0000051,Infantile Liver Failure Syndrome 2,9
+416,HMDB0000051,Infantile Liver Failure Syndrome 2,1092
+418,HMDB0000051,Infantile Liver Failure Syndrome 2,37
+420,HMDB0000051,Infantile Liver Failure Syndrome 2,278
+422,HMDB0000051,Infantile Liver Failure Syndrome 2,277
+424,HMDB0000051,Infantile Liver Failure Syndrome 2,276
+426,HMDB0000051,Infantile Liver Failure Syndrome 2,275
+428,HMDB0000051,Infantile Liver Failure Syndrome 2,274
+430,HMDB0000051,Infantile Liver Failure Syndrome 2,273
+432,HMDB0000051,Infantile Liver Failure Syndrome 2,279
+434,HMDB0000051,"Phosphoenolpyruvate Carboxykinase Deficiency 1, Cytosolic",1992
+435,HMDB0000051,"Phosphoenolpyruvate Carboxykinase Deficiency 1, Cytosolic",9
+436,HMDB0000051,"Phosphoenolpyruvate Carboxykinase Deficiency 1, Cytosolic",1092
+437,HMDB0000051,"Phosphoenolpyruvate Carboxykinase Deficiency 1, Cytosolic",37
+438,HMDB0000051,"Phosphoenolpyruvate Carboxykinase Deficiency 1, Cytosolic",278
+439,HMDB0000051,"Phosphoenolpyruvate Carboxykinase Deficiency 1, Cytosolic",277
+440,HMDB0000051,"Phosphoenolpyruvate Carboxykinase Deficiency 1, Cytosolic",276
+441,HMDB0000051,"Phosphoenolpyruvate Carboxykinase Deficiency 1, Cytosolic",275
+442,HMDB0000051,"Phosphoenolpyruvate Carboxykinase Deficiency 1, Cytosolic",274
+443,HMDB0000051,"Phosphoenolpyruvate Carboxykinase Deficiency 1, Cytosolic",273
+444,HMDB0000051,"Phosphoenolpyruvate Carboxykinase Deficiency 1, Cytosolic",279
+445,HMDB0000893,Medium Chain Acyl-CoA Dehydrogenase Deficiency,379
+446,HMDB0000893,Malonyl-Coa decarboxylase deficiency,379
+447,HMDB0000893,Carnitine-acylcarnitine translocase deficiency,379
+448,HMDB0000060,3-Hydroxy-3-Methylglutaryl-CoA Synthase Deficiency,371
+449,HMDB0000060,Ketoacidosis,371
+450,HMDB0000060,Glucose transporter type 1 deficiency syndrome,371
+451,HMDB0000060,Ketosis,371
+452,HMDB0000428,Glutaric aciduria I,2072
+454,HMDB0000407,Maple syrup urine disease,352
+455,HMDB0000700,Biotinidase deficiency,710
+457,HMDB0000700,Propionic acidemia,710
+461,HMDB0000695,Maple syrup urine disease,375
+462,HMDB0000243,"Myopathy with lactic acidosis, hereditary",2103
+463,HMDB0000243,"Myopathy with lactic acidosis, hereditary",292
+464,HMDB0000243,Mitochondrial pyruvate carrier deficiency,2103
+465,HMDB0000243,Mitochondrial pyruvate carrier deficiency,292
+466,HMDB0000243,Pyruvate dehydrogenase deficiency,2103
+467,HMDB0000243,Pyruvate dehydrogenase deficiency,292
+468,HMDB0000243,Pyruvate dehydrogenase phosphatase deficiency,2103
+470,HMDB0000243,Pyruvate dehydrogenase phosphatase deficiency,292
+472,HMDB0000243,Dihydrolipoamide Dehydrogenase Deficiency,2103
+473,HMDB0000243,Dihydrolipoamide Dehydrogenase Deficiency,292
+474,HMDB0000123,D-Glyceric acidura,1944
+475,HMDB0000123,D-Glyceric acidura,1945
+476,HMDB0000123,D-Glyceric acidura,1946
+477,HMDB0000123,D-Glyceric acidura,35
+478,HMDB0000123,D-Glyceric acidura,977
+479,HMDB0000123,D-Glyceric acidura,1272
+480,HMDB0000123,Neu-Laxova Syndrome 1,1944
+481,HMDB0000123,Neu-Laxova Syndrome 1,1945
+482,HMDB0000123,Neu-Laxova Syndrome 1,1946
+483,HMDB0000123,Neu-Laxova Syndrome 1,35
+484,HMDB0000123,Neu-Laxova Syndrome 1,977
+485,HMDB0000123,Neu-Laxova Syndrome 1,1272
+486,HMDB0000123,"Hyperglycinemia, lactic acidosis, and seizures",1944
+487,HMDB0000123,"Hyperglycinemia, lactic acidosis, and seizures",1945
+488,HMDB0000123,"Hyperglycinemia, lactic acidosis, and seizures",1946
+489,HMDB0000123,"Hyperglycinemia, lactic acidosis, and seizures",35
+490,HMDB0000123,"Hyperglycinemia, lactic acidosis, and seizures",977
+491,HMDB0000123,"Hyperglycinemia, lactic acidosis, and seizures",1272
+492,HMDB0000123,Pyridoxamine 5-prime-phosphate oxidase deficiency,1944
+493,HMDB0000123,Pyridoxamine 5-prime-phosphate oxidase deficiency,1945
+494,HMDB0000123,Pyridoxamine 5-prime-phosphate oxidase deficiency,1946
+495,HMDB0000123,Pyridoxamine 5-prime-phosphate oxidase deficiency,35
+496,HMDB0000123,Pyridoxamine 5-prime-phosphate oxidase deficiency,977
+497,HMDB0000123,Pyridoxamine 5-prime-phosphate oxidase deficiency,1272
+498,HMDB0000123,Phosphoserine Aminotransferase Deficiency,1944
+499,HMDB0000123,Phosphoserine Aminotransferase Deficiency,1945
+500,HMDB0000123,Phosphoserine Aminotransferase Deficiency,1946
+501,HMDB0000123,Phosphoserine Aminotransferase Deficiency,35
+502,HMDB0000123,Phosphoserine Aminotransferase Deficiency,977
+503,HMDB0000123,Phosphoserine Aminotransferase Deficiency,1272
+504,HMDB0000123,Phosphoserine Phosphatase Deficiency,1944
+505,HMDB0000123,Phosphoserine Phosphatase Deficiency,1945
+506,HMDB0000123,Phosphoserine Phosphatase Deficiency,1946
+507,HMDB0000123,Phosphoserine Phosphatase Deficiency,35
+508,HMDB0000123,Phosphoserine Phosphatase Deficiency,977
+509,HMDB0000123,Phosphoserine Phosphatase Deficiency,1272
+510,HMDB0000123,3-Phosphoglycerate dehydrogenase deficiency,1944
+511,HMDB0000123,3-Phosphoglycerate dehydrogenase deficiency,1945
+512,HMDB0000123,3-Phosphoglycerate dehydrogenase deficiency,1946
+513,HMDB0000123,3-Phosphoglycerate dehydrogenase deficiency,35
+514,HMDB0000123,3-Phosphoglycerate dehydrogenase deficiency,977
+515,HMDB0000123,3-Phosphoglycerate dehydrogenase deficiency,1272
+516,HMDB0000123,Iminoglycinuria,1944
+518,HMDB0000123,Iminoglycinuria,1945
+520,HMDB0000123,Iminoglycinuria,1946
+522,HMDB0000123,Iminoglycinuria,35
+524,HMDB0000123,Iminoglycinuria,977
+526,HMDB0000123,Iminoglycinuria,1272
+528,HMDB0000123,Argininosuccinic aciduria,1944
+529,HMDB0000123,Argininosuccinic aciduria,1945
+530,HMDB0000123,Argininosuccinic aciduria,1946
+531,HMDB0000123,Argininosuccinic aciduria,35
+532,HMDB0000123,Argininosuccinic aciduria,977
+533,HMDB0000123,Argininosuccinic aciduria,1272
+534,HMDB0000123,Propionic acidemia,1944
+536,HMDB0000123,Propionic acidemia,1945
+538,HMDB0000123,Propionic acidemia,1946
+540,HMDB0000123,Propionic acidemia,35
+542,HMDB0000123,Propionic acidemia,977
+544,HMDB0000123,Propionic acidemia,1272
+558,HMDB0000123,Glucoglycinuria,1944
+559,HMDB0000123,Glucoglycinuria,1945
+560,HMDB0000123,Glucoglycinuria,1946
+561,HMDB0000123,Glucoglycinuria,35
+562,HMDB0000123,Glucoglycinuria,977
+563,HMDB0000123,Glucoglycinuria,1272
+564,HMDB0000187,Neu-Laxova Syndrome 1,1964
+565,HMDB0000187,Neu-Laxova Syndrome 1,135
+566,HMDB0000187,Neu-Laxova Syndrome 1,1276
+567,HMDB0000187,Neu-Laxova Syndrome 1,1277
+568,HMDB0000187,Phosphoserine Aminotransferase Deficiency,1964
+569,HMDB0000187,Phosphoserine Aminotransferase Deficiency,135
+570,HMDB0000187,Phosphoserine Aminotransferase Deficiency,1276
+571,HMDB0000187,Phosphoserine Aminotransferase Deficiency,1277
+572,HMDB0000187,Phosphoserine Phosphatase Deficiency,1964
+573,HMDB0000187,Phosphoserine Phosphatase Deficiency,135
+574,HMDB0000187,Phosphoserine Phosphatase Deficiency,1276
+575,HMDB0000187,Phosphoserine Phosphatase Deficiency,1277
+576,HMDB0000187,3-Phosphoglycerate dehydrogenase deficiency,1964
+577,HMDB0000187,3-Phosphoglycerate dehydrogenase deficiency,135
+578,HMDB0000187,3-Phosphoglycerate dehydrogenase deficiency,1276
+579,HMDB0000187,3-Phosphoglycerate dehydrogenase deficiency,1277
+580,HMDB0000037,"Bartter Syndrome, Type 4A, Neonatal, with Sensorineural Deafness",798
+581,HMDB0000037,"Bartter Syndrome, Type 4A, Neonatal, with Sensorineural Deafness",799
+582,HMDB0000037,"Bartter Syndrome, Type 1, Antenatal",798
+583,HMDB0000037,"Bartter Syndrome, Type 1, Antenatal",799
+584,HMDB0000037,"Bartter Syndrome, Type 2, Antenatal",798
+585,HMDB0000037,"Bartter Syndrome, Type 2, Antenatal",799
+586,HMDB0000037,"Bartter Syndrome, Type 4B, Neonatal, With Sensorineural Deafness",798
+587,HMDB0000037,"Bartter Syndrome, Type 4B, Neonatal, With Sensorineural Deafness",799
+588,HMDB0000037,Congenital chloride diarrhea,798
+589,HMDB0000037,Congenital chloride diarrhea,799
+590,HMDB0000037,Corticosterone methyl oxidase I deficiency,798
+591,HMDB0000037,Corticosterone methyl oxidase I deficiency,799
+592,HMDB0000158,Tyrosinemia,1969
+594,HMDB0000158,Tyrosinemia,1970
+596,HMDB0000158,Tyrosinemia,1971
+598,HMDB0000158,Tyrosinemia,53
+600,HMDB0000158,Tyrosinemia,1298
+602,HMDB0000158,Tyrosinemia,1299
+628,HMDB0000158,Tyrosinemia I,1969
+629,HMDB0000158,Tyrosinemia I,1970
+630,HMDB0000158,Tyrosinemia I,1971
+631,HMDB0000158,Tyrosinemia I,53
+632,HMDB0000158,Tyrosinemia I,1298
+633,HMDB0000158,Tyrosinemia I,1299
+646,HMDB0000158,Hawkinsinuria,1969
+647,HMDB0000158,Hawkinsinuria,1970
+648,HMDB0000158,Hawkinsinuria,1971
+649,HMDB0000158,Hawkinsinuria,53
+650,HMDB0000158,Hawkinsinuria,1298
+651,HMDB0000158,Hawkinsinuria,1299
+652,HMDB0000801,Adrenoleukodystrophy,500
+653,HMDB0000801,"Peroxisomal disorders, new type, liver",500
+654,HMDB0000801,Alpha-Methylacyl-CoA racemase deficiency,500
+655,HMDB0000517,Argininemia,1928
+657,HMDB0000517,Argininemia,11
+659,HMDB0000517,Argininemia,39
+661,HMDB0000517,Argininemia,720
+663,HMDB0000517,Argininemia,1309
+665,HMDB0000517,Lysinuric protein intolerance,1928
+666,HMDB0000517,Lysinuric protein intolerance,11
+667,HMDB0000517,Lysinuric protein intolerance,39
+668,HMDB0000517,Lysinuric protein intolerance,720
+669,HMDB0000517,Lysinuric protein intolerance,1309
+670,HMDB0000517,N-acetylglutamate synthetase deficiency,1928
+672,HMDB0000517,N-acetylglutamate synthetase deficiency,11
+674,HMDB0000517,N-acetylglutamate synthetase deficiency,39
+676,HMDB0000517,N-acetylglutamate synthetase deficiency,720
+678,HMDB0000517,N-acetylglutamate synthetase deficiency,1309
+680,HMDB0000517,Citrullinemia type I,1928
+681,HMDB0000517,Citrullinemia type I,11
+682,HMDB0000517,Citrullinemia type I,39
+683,HMDB0000517,Citrullinemia type I,720
+684,HMDB0000517,Citrullinemia type I,1309
+685,HMDB0000517,"Cutis laxa, autosomal recessive, type IIIA",1928
+686,HMDB0000517,"Cutis laxa, autosomal recessive, type IIIA",11
+687,HMDB0000517,"Cutis laxa, autosomal recessive, type IIIA",39
+688,HMDB0000517,"Cutis laxa, autosomal recessive, type IIIA",720
+689,HMDB0000517,"Cutis laxa, autosomal recessive, type IIIA",1309
+690,HMDB0000517,Hyperargininemia,1928
+691,HMDB0000517,Hyperargininemia,11
+692,HMDB0000517,Hyperargininemia,39
+693,HMDB0000517,Hyperargininemia,720
+694,HMDB0000517,Hyperargininemia,1309
+695,HMDB0000517,Cystinuria,1928
+696,HMDB0000517,Cystinuria,11
+697,HMDB0000517,Cystinuria,39
+698,HMDB0000517,Cystinuria,720
+699,HMDB0000517,Cystinuria,1309
+710,HMDB0000517,Argininosuccinic aciduria,1928
+711,HMDB0000517,Argininosuccinic aciduria,11
+712,HMDB0000517,Argininosuccinic aciduria,39
+713,HMDB0000517,Argininosuccinic aciduria,720
+714,HMDB0000517,Argininosuccinic aciduria,1309
+715,HMDB0000517,Hyperdibasic aminoaciduria I,1928
+716,HMDB0000517,Hyperdibasic aminoaciduria I,11
+717,HMDB0000517,Hyperdibasic aminoaciduria I,39
+718,HMDB0000517,Hyperdibasic aminoaciduria I,720
+719,HMDB0000517,Hyperdibasic aminoaciduria I,1309
+725,HMDB0000904,Argininosuccinic aciduria,1940
+726,HMDB0000904,Argininosuccinic aciduria,16
+727,HMDB0000904,Argininosuccinic aciduria,1189
+728,HMDB0000904,Argininosuccinic aciduria,1292
+729,HMDB0000904,Argininosuccinic aciduria,1293
+730,HMDB0000904,N-acetylglutamate synthetase deficiency,1940
+732,HMDB0000904,N-acetylglutamate synthetase deficiency,16
+734,HMDB0000904,N-acetylglutamate synthetase deficiency,1189
+736,HMDB0000904,N-acetylglutamate synthetase deficiency,1292
+738,HMDB0000904,N-acetylglutamate synthetase deficiency,1293
+740,HMDB0000904,Citrullinemia type I,1940
+741,HMDB0000904,Citrullinemia type I,16
+742,HMDB0000904,Citrullinemia type I,1189
+743,HMDB0000904,Citrullinemia type I,1292
+744,HMDB0000904,Citrullinemia type I,1293
+755,HMDB0000904,"Citrullinemia type II, adult-onset",1940
+756,HMDB0000904,"Citrullinemia type II, adult-onset",16
+757,HMDB0000904,"Citrullinemia type II, adult-onset",1189
+758,HMDB0000904,"Citrullinemia type II, adult-onset",1292
+759,HMDB0000904,"Citrullinemia type II, adult-onset",1293
+760,HMDB0000904,"Cutis laxa, autosomal recessive, type IIIA",1940
+761,HMDB0000904,"Cutis laxa, autosomal recessive, type IIIA",16
+762,HMDB0000904,"Cutis laxa, autosomal recessive, type IIIA",1189
+763,HMDB0000904,"Cutis laxa, autosomal recessive, type IIIA",1292
+764,HMDB0000904,"Cutis laxa, autosomal recessive, type IIIA",1293
+765,HMDB0000714,Uremia,387
+766,HMDB0000714,Argininosuccinic aciduria,387
+767,HMDB0000714,Propionic acidemia,387
+771,HMDB0000226,Ornithine transcarbamylase deficiency,804
+772,HMDB0000226,Orotic aciduria I,804
+773,HMDB0000226,N-acetylglutamate synthetase deficiency,804
+775,HMDB0000226,Hyperornithinemia-hyperammonemia-homocitrullinuria,804
+776,HMDB0000226,Lysinuric protein intolerance,804
+777,HMDB0000052,Argininosuccinic aciduria,27
+778,HMDB0000157,Lesch-Nyhan syndrome,1067
+780,HMDB0000157,Molybdenum cofactor deficiency,1067
+783,HMDB0000157,Phosphoribosylpyrophosphate Synthetase Superactivity,1067
+784,HMDB0000177,Histidinemia,1947
+785,HMDB0000177,Histidinemia,172
+786,HMDB0000177,Histidinemia,946
+787,HMDB0000177,Histidinemia,1290
+788,HMDB0000177,Histidinemia,1291
+789,HMDB0000177,Pyridoxamine 5-prime-phosphate oxidase deficiency,1947
+790,HMDB0000177,Pyridoxamine 5-prime-phosphate oxidase deficiency,172
+791,HMDB0000177,Pyridoxamine 5-prime-phosphate oxidase deficiency,946
+792,HMDB0000177,Pyridoxamine 5-prime-phosphate oxidase deficiency,1290
+793,HMDB0000177,Pyridoxamine 5-prime-phosphate oxidase deficiency,1291
+794,HMDB0000491,Maple syrup urine disease,373
+795,HMDB0000557,Maple syrup urine disease,1948
+796,HMDB0000557,Maple syrup urine disease,1949
+797,HMDB0000557,Maple syrup urine disease,1950
+798,HMDB0000557,Maple syrup urine disease,2066
+799,HMDB0000557,Maple syrup urine disease,50
+800,HMDB0000557,Maple syrup urine disease,1209
+807,HMDB0000812,Canavan disease,981
+808,HMDB0000033,Carnosinuria,178
+809,HMDB0000064,Cerebral creatine deficiency syndrome 3,2108
+810,HMDB0000064,Cerebral creatine deficiency syndrome 3,1484
+811,HMDB0000064,Cerebral creatine deficiency syndrome 1,2108
+812,HMDB0000064,Cerebral creatine deficiency syndrome 1,1484
+813,HMDB0000562,Isovaleric acidemia,834
+814,HMDB0000562,Chronic renal failure,834
+815,HMDB0000562,Cerebral creatine deficiency syndrome 2,834
+816,HMDB0002027,"Chondrodysplasia punctata, X-linked dominant",806
+817,HMDB0002027,Smith-Lemli-Opitz syndrome,806
+818,HMDB0000167,Pyridoxamine 5-prime-phosphate oxidase deficiency,1965
+819,HMDB0000167,Pyridoxamine 5-prime-phosphate oxidase deficiency,1966
+820,HMDB0000167,Pyridoxamine 5-prime-phosphate oxidase deficiency,1967
+821,HMDB0000167,Pyridoxamine 5-prime-phosphate oxidase deficiency,2068
+822,HMDB0000167,Pyridoxamine 5-prime-phosphate oxidase deficiency,2067
+823,HMDB0000167,Pyridoxamine 5-prime-phosphate oxidase deficiency,133
+824,HMDB0000167,Pyridoxamine 5-prime-phosphate oxidase deficiency,1282
+825,HMDB0000167,Pyridoxamine 5-prime-phosphate oxidase deficiency,1283
+826,HMDB0000202,Vitamin B12 deficiency,392
+828,HMDB0000202,Malonyl-Coa decarboxylase deficiency,392
+829,HMDB0000202,Methylmalonic aciduria mitochondrial encephelopathy Leigh-like,392
+830,HMDB0000202,"Methylmalonic aciduria, cblA type",392
+831,HMDB0000202,"Methylmalonic aciduria, cblB type",392
+832,HMDB0000202,Cobalamin malabsorption,392
+833,HMDB0000202,Transcobalamin II deficiency,392
+834,HMDB0000202,Combined malonic and methylmalonic aciduria,392
+835,HMDB0000092,Dimethylglycine Dehydrogenase Deficiency,2062
+836,HMDB0000271,Sarcosinemia,141
+838,HMDB0000056,Hyper beta-alaninemia,157
+839,HMDB0000056,Methylmalonate semialdehyde dehydrogenase deficiency,157
+840,HMDB0000725,Hydroxyprolinemia,131
+842,HMDB0000725,Iminoglycinuria,131
+844,HMDB0000929,Hartnup disease,1968
+845,HMDB0000929,Hartnup disease,166
+846,HMDB0000929,Hartnup disease,1190
+847,HMDB0000929,Hartnup disease,1304
+848,HMDB0000929,Hartnup disease,1305
+849,HMDB0000929,Tryptophanuria with dwarfism,1968
+850,HMDB0000929,Tryptophanuria with dwarfism,166
+851,HMDB0000929,Tryptophanuria with dwarfism,1190
+852,HMDB0000929,Tryptophanuria with dwarfism,1304
+853,HMDB0000929,Tryptophanuria with dwarfism,1305
+854,HMDB0000635,Tyrosinemia,2076
+856,HMDB0000635,Tyrosinemia I,2076
+857,HMDB0000450,Hydroxylysinuria,168
+858,HMDB0000251,Molybdenum cofactor deficiency,1927
+859,HMDB0000251,Molybdenum cofactor deficiency,1974
+860,HMDB0000251,Molybdenum cofactor deficiency,124
+873,HMDB0000227,Mevalonic aciduria,689
+874,HMDB0000224,Odontohypophosphatasia,127
+875,HMDB0001851,Ribose-5-phosphate isomerase deficiency,2119
+876,HMDB0001170,Lathosterolosis,1884
+877,HMDB0000019,Maple syrup urine disease,369
+878,HMDB0000482,Medium Chain Acyl-CoA Dehydrogenase Deficiency,354
+879,HMDB0000508,Ribose-5-phosphate isomerase deficiency,2118
+880,HMDB0000032,Smith-Lemli-Opitz syndrome,2131
